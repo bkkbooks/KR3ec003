@@ -1,0 +1,11749 @@
+canonical_identifier: bkk:krp/KR3ec003/Shang/v1
+canonical_location: https://kanripo.org/bkk/KR3ec003/Shang/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本草經集註
+  identifiers:
+    krp: KR3ec003
+  tags:
+    kr-categories: KR3ec
+    tls-internal:
+    - swl
+    - tr-en
+    tls-dates: dat04580
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec003.xml
+  edition:
+    short: Shang
+assets:
+  parts:
+  - {seq: 5, filename: KR3ec003_005-Shang.yaml, hash: 'sha256:59e51b7c965ac74fbf8bf7339212e776a3e9ab1d9a4aeba9893fe90b663c5bb8'}
+  - {seq: 6, filename: KR3ec003_006-Shang.yaml, hash: 'sha256:3998a175725757031de26f82b5eb95709e5658d65900ac77db46b82ec13a1bac'}
+  - {seq: 7, filename: KR3ec003_007-Shang.yaml, hash: 'sha256:8bff65be69ecc72db52e416c7ffdd1a9c343a42183a138b1f1301ab5e5f27faf'}
+  - {seq: 8, filename: KR3ec003_008-Shang.yaml, hash: 'sha256:26c40fd66a3499b14964fb4b2857b36d7105880b16524a4de83e0a5422732e32'}
+  - {seq: 9, filename: KR3ec003_009-Shang.yaml, hash: 'sha256:1f1ebf363ba9301ac297406d4dd656974b5828cc0064a29efbe9a5d493dbcbd6'}
+  - {seq: 10, filename: KR3ec003_010-Shang.yaml, hash: 'sha256:05917130872a45135dd8196c45d340781f0b00483fdca2eac01712513dc69555'}
+  - {seq: 11, filename: KR3ec003_011-Shang.yaml, hash: 'sha256:89db982d578827944db06b78e35347453e4bc483cb4647cf7ca8b35d85b6473b'}
+  markers:
+  - {seq: 5, role: markers, filename: assets/KR3ec003_005-Shang.markers.yaml, hash: 'sha256:46bddee2fcd532d4ff24e3e874daf5bb049cf34e2e77094c598e814d92dd0dda'}
+  - {seq: 6, role: markers, filename: assets/KR3ec003_006-Shang.markers.yaml, hash: 'sha256:0aa42a181d08d62d9fbeff92d0f1df9ef914edafc68150558a9b7c71bc10ac2f'}
+  - {seq: 7, role: markers, filename: assets/KR3ec003_007-Shang.markers.yaml, hash: 'sha256:46381190651269586fa1671d51b4abcdb9e39ebe0c29ab9fceafbcc09f35bfe5'}
+  - {seq: 8, role: markers, filename: assets/KR3ec003_008-Shang.markers.yaml, hash: 'sha256:4626b54950804aedb67cd325d48a1ccabfc5669fe14195ce4bd9f6f6b9cd6d3f'}
+  - {seq: 9, role: markers, filename: assets/KR3ec003_009-Shang.markers.yaml, hash: 'sha256:cc23da7762796fdfaeef5dd541abf5998b2d36ea4beb4a8a4919c9b9f0fd4ebf'}
+  - {seq: 10, role: markers, filename: assets/KR3ec003_010-Shang.markers.yaml, hash: 'sha256:f9449daaa01284bf5cf921e876a36a766ddadfbc6887eeb199ff14ed3756cf89'}
+  - {seq: 11, role: markers, filename: assets/KR3ec003_011-Shang.markers.yaml, hash: 'sha256:e25149b9ca2bd018cbe9c4d0f0892a5c3851cdbc6949d58f12edbce653478171'}
+table_of_contents:
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-1-1h.s1
+    span:
+    - front
+    - 0
+    - 10816
+  label: 卷第一序録
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-7h.s1
+    span:
+    - front
+    - 8227
+    - 8431
+  label: 玉石上品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-8h.s1
+    span:
+    - front
+    - 8231
+    - 8236
+  label: 玉屑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-9h.s1
+    span:
+    - front
+    - 8236
+    - 8242
+  label: 玉泉
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-10h.s1
+    span:
+    - front
+    - 8242
+    - 8250
+  label: 丹沙
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-11h.s1
+    span:
+    - front
+    - 8250
+    - 8255
+  label: 水銀
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-12h.s1
+    span:
+    - front
+    - 8255
+    - 8261
+  label: 曾青
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-13h.s1
+    span:
+    - front
+    - 8261
+    - 8279
+  label: 石膽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-96-14h.s1
+    span:
+    - front
+    - 8279
+    - 8431
+  label: 雲母
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-97-12h.s1
+    span:
+    - front
+    - 8430
+    - 8431
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-98-17h.s1
+    span:
+    - front
+    - 8431
+    - 8555
+  label: 玉石中品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-98-18h.s1
+    span:
+    - front
+    - 8435
+    - 8455
+  label: 鐘乳
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-99-1h.s1
+    span:
+    - front
+    - 8455
+    - 8555
+  label: 殷孽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-99-9h.s1
+    span:
+    - front
+    - 8554
+    - 8555
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-100-7h.s1
+    span:
+    - front
+    - 8555
+    - 8620
+  label: 下品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-101-3h.s1
+    span:
+    - front
+    - 8620
+    - 9135
+  label: 草木上品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-101-6h.s1
+    span:
+    - front
+    - 8666
+    - 9135
+  label: 栢子
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-101-12h.s1
+    span:
+    - front
+    - 8752
+    - 8906
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-103-10h.s1
+    span:
+    - front
+    - 8906
+    - 9018
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-105-1h.s1
+    span:
+    - front
+    - 9018
+    - 9134
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-106-7h.s1
+    span:
+    - front
+    - 9134
+    - 9135
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-107-1h.s1
+    span:
+    - front
+    - 9135
+    - 9681
+  label: 草木中品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-112-16h.s1
+    span:
+    - front
+    - 9681
+    - 10215
+  label: 草木下品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-119-5h.s1
+    span:
+    - front
+    - 10215
+    - 10313
+  label: 蟲獸上品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-120-18h.s1
+    span:
+    - front
+    - 10313
+    - 10484
+  label: 蟲獸中品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec003_Shang_005-123-1h.s1
+    span:
+    - front
+    - 10484
+    - 10816
+  label: 蟲獸下品
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-127-1h.s1
+    span:
+    - body
+    - 0
+    - 10898
+  label: 卷第二玉石三品
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-127-2h.s1
+    span:
+    - body
+    - 7
+    - 4925
+  label: 上品
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-127-3h.s1
+    span:
+    - body
+    - 9
+    - 192
+  label: 玉屑
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-127-9h.s1
+    span:
+    - body
+    - 191
+    - 192
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-127-12h.s1
+    span:
+    - body
+    - 192
+    - 463
+  label: 玉泉
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-128-6h.s1
+    span:
+    - body
+    - 462
+    - 463
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-129-3h.s1
+    span:
+    - body
+    - 463
+    - 779
+  label: 丹沙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-129-13h.s1
+    span:
+    - body
+    - 778
+    - 779
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-130-2h.s1
+    span:
+    - body
+    - 779
+    - 963
+  label: 水銀
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-130-9h.s1
+    span:
+    - body
+    - 962
+    - 963
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-130-16h.s1
+    span:
+    - body
+    - 963
+    - 1182
+  label: 空青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-131-6h.s1
+    span:
+    - body
+    - 1181
+    - 1182
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-131-15h.s1
+    span:
+    - body
+    - 1182
+    - 1328
+  label: 曾青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-132-2h.s1
+    span:
+    - body
+    - 1327
+    - 1328
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-132-10h.s1
+    span:
+    - body
+    - 1328
+    - 1434
+  label: 白青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-132-15h.s1
+    span:
+    - body
+    - 1433
+    - 1434
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-133-1h.s1
+    span:
+    - body
+    - 1434
+    - 1540
+  label: 扁青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-133-6h.s1
+    span:
+    - body
+    - 1539
+    - 1540
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-133-11h.s1
+    span:
+    - body
+    - 1540
+    - 1737
+  label: 石膽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-134-1h.s1
+    span:
+    - body
+    - 1736
+    - 1737
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-134-17h.s1
+    span:
+    - body
+    - 1737
+    - 2093
+  label: 雲母
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-135-10h.s1
+    span:
+    - body
+    - 2092
+    - 2093
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-136-2h.s1
+    span:
+    - body
+    - 2093
+    - 2308
+  label: 朴消
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-136-10h.s1
+    span:
+    - body
+    - 2307
+    - 2308
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-136-18h.s1
+    span:
+    - body
+    - 2308
+    - 2612
+  label: 消石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-137-10h.s1
+    span:
+    - body
+    - 2611
+    - 2612
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-138-8h.s1
+    span:
+    - body
+    - 2612
+    - 2829
+  label: 礬石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-138-16h.s1
+    span:
+    - body
+    - 2828
+    - 2829
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-139-9h.s1
+    span:
+    - body
+    - 2829
+    - 3281
+  label: 芒消
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-140-4h.s1
+    span:
+    - body
+    - 3280
+    - 3281
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-140-11h.s1
+    span:
+    - body
+    - 3281
+    - 3502
+  label: 滑石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-140-19h.s1
+    span:
+    - body
+    - 3501
+    - 3502
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-141-5h.s1
+    span:
+    - body
+    - 3502
+    - 3753
+  label: 紫石英
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-141-14h.s1
+    span:
+    - body
+    - 3752
+    - 3753
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-142-5h.s1
+    span:
+    - body
+    - 3753
+    - 4016
+  label: 白石英
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-142-12h.s1
+    span:
+    - body
+    - 3940
+    - 4016
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-143-7h.s1
+    span:
+    - body
+    - 4016
+    - 4069
+  label: 青石脂
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-143-9h.s1
+    span:
+    - body
+    - 4069
+    - 4151
+  label: 赤石脂
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-143-12h.s1
+    span:
+    - body
+    - 4151
+    - 4310
+  label: 黄石脂
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-144-4h.s1
+    span:
+    - body
+    - 4310
+    - 4520
+  label: 黑石脂
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-144-10h.s1
+    span:
+    - body
+    - 4519
+    - 4520
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-144-19h.s1
+    span:
+    - body
+    - 4520
+    - 4653
+  label: 太一禹餘糧
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-145-5h.s1
+    span:
+    - body
+    - 4652
+    - 4653
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-145-11h.s1
+    span:
+    - body
+    - 4653
+    - 4925
+  label: 禹餘糧
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-146-1h.s1
+    span:
+    - body
+    - 4924
+    - 4925
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-146-7h.s1
+    span:
+    - body
+    - 4925
+    - 8259
+  label: 中品
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-146-8h.s1
+    span:
+    - body
+    - 4927
+    - 5105
+  label: 金屑
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-146-15h.s1
+    span:
+    - body
+    - 5104
+    - 5105
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-147-11h.s1
+    span:
+    - body
+    - 5105
+    - 5286
+  label: 銀屑
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-147-18h.s1
+    span:
+    - body
+    - 5285
+    - 5286
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-148-15h.s1
+    span:
+    - body
+    - 5286
+    - 5629
+  label: 雄黄
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-149-10h.s1
+    span:
+    - body
+    - 5628
+    - 5629
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-150-18h.s1
+    span:
+    - body
+    - 5629
+    - 5856
+  label: 雌黄
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-151-7h.s1
+    span:
+    - body
+    - 5855
+    - 5856
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-152-1h.s1
+    span:
+    - body
+    - 5856
+    - 6051
+  label: 石錘乳
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-152-8h.s1
+    span:
+    - body
+    - 6050
+    - 6051
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-152-13h.s1
+    span:
+    - body
+    - 6051
+    - 6149
+  label: 殷孽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-153-1h.s1
+    span:
+    - body
+    - 6148
+    - 6149
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-153-6h.s1
+    span:
+    - body
+    - 6149
+    - 6378
+  label: 孔公孽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-153-14h.s1
+    span:
+    - body
+    - 6377
+    - 6378
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-154-8h.s1
+    span:
+    - body
+    - 6378
+    - 6498
+  label: 石腦
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-154-13h.s1
+    span:
+    - body
+    - 6497
+    - 6498
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-154-19h.s1
+    span:
+    - body
+    - 6498
+    - 6686
+  label: 石硫黄
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-155-8h.s1
+    span:
+    - body
+    - 6685
+    - 6686
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-156-6h.s1
+    span:
+    - body
+    - 6686
+    - 6850
+  label: 磁石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-156-13h.s1
+    span:
+    - body
+    - 6849
+    - 6850
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-157-12h.s1
+    span:
+    - body
+    - 6850
+    - 7023
+  label: 凝水石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-158-3h.s1
+    span:
+    - body
+    - 7022
+    - 7023
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-159-2h.s1
+    span:
+    - body
+    - 7023
+    - 7226
+  label: 石膏
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-159-10h.s1
+    span:
+    - body
+    - 7225
+    - 7226
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-160-8h.s1
+    span:
+    - body
+    - 7226
+    - 7410
+  label: 陽起石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-160-15h.s1
+    span:
+    - body
+    - 7409
+    - 7410
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-161-15h.s1
+    span:
+    - body
+    - 7410
+    - 7548
+  label: 玄石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-162-2h.s1
+    span:
+    - body
+    - 7547
+    - 7548
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-162-11h.s1
+    span:
+    - body
+    - 7548
+    - 7692
+  label: 理石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-162-17h.s1
+    span:
+    - body
+    - 7691
+    - 7692
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-163-7h.s1
+    span:
+    - body
+    - 7692
+    - 7820
+  label: 長石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-163-13h.s1
+    span:
+    - body
+    - 7819
+    - 7820
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-1h.s1
+    span:
+    - body
+    - 7820
+    - 7891
+  label: 緑青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-4h.s1
+    span:
+    - body
+    - 7890
+    - 7891
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-7h.s1
+    span:
+    - body
+    - 7891
+    - 7965
+  label: 鐵落
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-10h.s1
+    span:
+    - body
+    - 7965
+    - 7987
+  label: 鐵
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-11h.s1
+    span:
+    - body
+    - 7987
+    - 8013
+  label: 生鐵
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-12h.s1
+    span:
+    - body
+    - 8013
+    - 8055
+  label: 鋼鐵
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-164-14h.s1
+    span:
+    - body
+    - 8055
+    - 8144
+  label: 鐵精
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-165-3h.s1
+    span:
+    - body
+    - 8143
+    - 8144
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-165-19h.s1
+    span:
+    - body
+    - 8144
+    - 8259
+  label: 鉛丹
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-166-4h.s1
+    span:
+    - body
+    - 8258
+    - 8259
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-166-16h.s1
+    span:
+    - body
+    - 8259
+    - 10898
+  label: 下品
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-166-17h.s1
+    span:
+    - body
+    - 8261
+    - 8411
+  label: 青琅玕
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-167-5h.s1
+    span:
+    - body
+    - 8410
+    - 8411
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-167-16h.s1
+    span:
+    - body
+    - 8411
+    - 8484
+  label: 膚青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-167-19h.s1
+    span:
+    - body
+    - 8483
+    - 8484
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-168-8h.s1
+    span:
+    - body
+    - 8484
+    - 8743
+  label: 礜石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-169-1h.s1
+    span:
+    - body
+    - 8742
+    - 8743
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-170-7h.s1
+    span:
+    - body
+    - 8743
+    - 8815
+  label: 方解石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-170-10h.s1
+    span:
+    - body
+    - 8814
+    - 8815
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-170-12h.s1
+    span:
+    - body
+    - 8815
+    - 8864
+  label: 蒼石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-170-15h.s1
+    span:
+    - body
+    - 8863
+    - 8864
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-171-1h.s1
+    span:
+    - body
+    - 8864
+    - 8941
+  label: 土陰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-171-5h.s1
+    span:
+    - body
+    - 8940
+    - 8941
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-171-7h.s1
+    span:
+    - body
+    - 8941
+    - 9129
+  label: 代赭
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-171-14h.s1
+    span:
+    - body
+    - 9128
+    - 9129
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-172-5h.s1
+    span:
+    - body
+    - 9129
+    - 9205
+  label: 鹵鹹
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-172-9h.s1
+    span:
+    - body
+    - 9204
+    - 9205
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-173-2h.s1
+    span:
+    - body
+    - 9205
+    - 9606
+  label: 戎鹽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-173-15h.s1
+    span:
+    - body
+    - 9605
+    - 9606
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-175-5h.s1
+    span:
+    - body
+    - 9606
+    - 9657
+  label: 大鹽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-175-7h.s1
+    span:
+    - body
+    - 9656
+    - 9657
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-175-13h.s1
+    span:
+    - body
+    - 9657
+    - 9842
+  label: 特生礜石
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-176-2h.s1
+    span:
+    - body
+    - 9841
+    - 9842
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-176-15h.s1
+    span:
+    - body
+    - 9842
+    - 9930
+  label: 白堊
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-176-19h.s1
+    span:
+    - body
+    - 9929
+    - 9930
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-177-9h.s1
+    span:
+    - body
+    - 9930
+    - 10005
+  label: 粉錫
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-177-12h.s1
+    span:
+    - body
+    - 10004
+    - 10005
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-177-18h.s1
+    span:
+    - body
+    - 10005
+    - 10159
+  label: 錫銅鏡鼻
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-178-6h.s1
+    span:
+    - body
+    - 10158
+    - 10159
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-179-4h.s1
+    span:
+    - body
+    - 10159
+    - 10225
+  label: 銅弩牙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-179-7h.s1
+    span:
+    - body
+    - 10224
+    - 10225
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-179-12h.s1
+    span:
+    - body
+    - 10225
+    - 10315
+  label: 金牙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-179-15h.s1
+    span:
+    - body
+    - 10314
+    - 10315
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-179-18h.s1
+    span:
+    - body
+    - 10315
+    - 10454
+  label: 石灰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-180-4h.s1
+    span:
+    - body
+    - 10453
+    - 10454
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-180-17h.s1
+    span:
+    - body
+    - 10454
+    - 10546
+  label: 冬灰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-181-2h.s1
+    span:
+    - body
+    - 10545
+    - 10546
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-181-9h.s1
+    span:
+    - body
+    - 10546
+    - 10600
+  label: 鍛竈灰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-181-12h.s1
+    span:
+    - body
+    - 10599
+    - 10600
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-181-15h.s1
+    span:
+    - body
+    - 10600
+    - 10706
+  label: 伏龍肝
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-181-20h.s1
+    span:
+    - body
+    - 10705
+    - 10706
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-182-5h.s1
+    span:
+    - body
+    - 10706
+    - 10774
+  label: 東壁土
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-182-8h.s1
+    span:
+    - body
+    - 10773
+    - 10774
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-182-16h.s1
+    span:
+    - body
+    - 10774
+    - 10819
+  label: 半天河
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-182-18h.s1
+    span:
+    - body
+    - 10818
+    - 10819
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-182-20h.s1
+    span:
+    - body
+    - 10819
+    - 10898
+  label: 地漿
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ec003_Shang_006-183-3h.s1
+    span:
+    - body
+    - 10897
+    - 10898
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-184-1h.s1
+    span:
+    - body
+    - 0
+    - 15032
+  label: 卷第三草木上品
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-184-2h.s1
+    span:
+    - body
+    - 7
+    - 50
+  label: 青芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-184-11h.s1
+    span:
+    - body
+    - 50
+    - 123
+  label: 赤芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-185-4h.s1
+    span:
+    - body
+    - 123
+    - 170
+  label: 黄芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-185-9h.s1
+    span:
+    - body
+    - 170
+    - 222
+  label: 白芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-185-13h.s1
+    span:
+    - body
+    - 222
+    - 268
+  label: 黑芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-185-18h.s1
+    span:
+    - body
+    - 268
+    - 454
+  label: 紫芝
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-186-11h.s1
+    span:
+    - body
+    - 454
+    - 617
+  label: 赤箭
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-187-5h.s1
+    span:
+    - body
+    - 617
+    - 705
+  label: 龍眼
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-187-18h.s1
+    span:
+    - body
+    - 705
+    - 828
+  label: 猪苓
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-188-15h.s1
+    span:
+    - body
+    - 828
+    - 1238
+  label: 茯苓
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-190-19h.s1
+    span:
+    - body
+    - 1238
+    - 1418
+  label: 虎魄
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-191-15h.s1
+    span:
+    - body
+    - 1418
+    - 1704
+  label: 松脂
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-193-6h.s1
+    span:
+    - body
+    - 1704
+    - 1919
+  label: 柏實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-194-17h.s1
+    span:
+    - body
+    - 1919
+    - 2244
+  label: 天門冬
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-195-18h.s1
+    span:
+    - body
+    - 2244
+    - 2489
+  label: 麦門冬
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-196-19h.s1
+    span:
+    - body
+    - 2489
+    - 2779
+  label: 朮
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-197-18h.s1
+    span:
+    - body
+    - 2779
+    - 2997
+  label: 女萎
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-198-18h.s1
+    span:
+    - body
+    - 2997
+    - 3184
+  label: 黄精
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-199-13h.s1
+    span:
+    - body
+    - 3184
+    - 3523
+  label: 乾地黄
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-200-16h.s1
+    span:
+    - body
+    - 3523
+    - 3808
+  label: 菖蒲
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-201-18h.s1
+    span:
+    - body
+    - 3808
+    - 4015
+  label: 遠志
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-202-19h.s1
+    span:
+    - body
+    - 4015
+    - 4269
+  label: 澤瀉
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-203-18h.s1
+    span:
+    - body
+    - 4269
+    - 4411
+  label: 薯蕷
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-205-3h.s1
+    span:
+    - body
+    - 4411
+    - 4670
+  label: 菊花
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-206-9h.s1
+    span:
+    - body
+    - 4670
+    - 4951
+  label: 甘草
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-207-9h.s1
+    span:
+    - body
+    - 4951
+    - 5289
+  label: 人參
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-208-14h.s1
+    span:
+    - body
+    - 5289
+    - 5496
+  label: 石斛
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-209-8h.s1
+    span:
+    - body
+    - 5496
+    - 5662
+  label: 石龍芮
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-210-1h.s1
+    span:
+    - body
+    - 5662
+    - 5811
+  label: 石龍蒭
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-210-15h.s1
+    span:
+    - body
+    - 5811
+    - 5990
+  label: 絡石
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-211-16h.s1
+    span:
+    - body
+    - 5990
+    - 6101
+  label: 千歲虆汁
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-212-4h.s1
+    span:
+    - body
+    - 6101
+    - 6232
+  label: 木香
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-212-17h.s1
+    span:
+    - body
+    - 6232
+    - 6357
+  label: 龍膽
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-213-16h.s1
+    span:
+    - body
+    - 6357
+    - 6520
+  label: 牛膝為君
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-214-17h.s1
+    span:
+    - body
+    - 6520
+    - 6653
+  label: 卷柏
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-215-11h.s1
+    span:
+    - body
+    - 6653
+    - 6806
+  label: 菌桂
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-216-6h.s1
+    span:
+    - body
+    - 6806
+    - 6930
+  label: 牡桂
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-216-14h.s1
+    span:
+    - body
+    - 6930
+    - 7252
+  label: 桂
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-218-6h.s1
+    span:
+    - body
+    - 7252
+    - 7403
+  label: 杜仲
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-219-6h.s1
+    span:
+    - body
+    - 7403
+    - 7596
+  label: 乾漆
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-220-5h.s1
+    span:
+    - body
+    - 7596
+    - 7796
+  label: 細辛
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-221-6h.s1
+    span:
+    - body
+    - 7796
+    - 7987
+  label: 獨活
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-222-3h.s1
+    span:
+    - body
+    - 7987
+    - 8171
+  label: 升麻
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-223-7h.s1
+    span:
+    - body
+    - 8171
+    - 8398
+  label: 茈胡
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-224-6h.s1
+    span:
+    - body
+    - 8398
+    - 8566
+  label: 防葵
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-224-17h.s1
+    span:
+    - body
+    - 8566
+    - 8616
+  label: 蓍實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-225-7h.s1
+    span:
+    - body
+    - 8616
+    - 8777
+  label: 楮實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-226-7h.s1
+    span:
+    - body
+    - 8777
+    - 8912
+  label: 酸棗
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-227-6h.s1
+    span:
+    - body
+    - 8912
+    - 9103
+  label: 槐實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-228-11h.s1
+    span:
+    - body
+    - 9103
+    - 9339
+  label: 枸杞
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-230-1h.s1
+    span:
+    - body
+    - 9339
+    - 9432
+  label: 蘇合
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-230-9h.s1
+    span:
+    - body
+    - 9432
+    - 9616
+  label: 橘柚
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-231-17h.s1
+    span:
+    - body
+    - 9616
+    - 9740
+  label: 菴子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-232-10h.s1
+    span:
+    - body
+    - 9740
+    - 9902
+  label: 薏苡人
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-233-8h.s1
+    span:
+    - body
+    - 9902
+    - 10095
+  label: 車前子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-234-6h.s1
+    span:
+    - body
+    - 10095
+    - 10225
+  label: 蛇床子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-235-2h.s1
+    span:
+    - body
+    - 10225
+    - 10425
+  label: 菟絲子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-236-2h.s1
+    span:
+    - body
+    - 10425
+    - 10524
+  label: 菥蓂子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-236-11h.s1
+    span:
+    - body
+    - 10524
+    - 10619
+  label: 茺蔚子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-236-17h.s1
+    span:
+    - body
+    - 10619
+    - 10725
+  label: 地膚子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-237-11h.s1
+    span:
+    - body
+    - 10725
+    - 10853
+  label: 青蘘
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-238-2h.s1
+    span:
+    - body
+    - 10853
+    - 10960
+  label: 忍冬
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-238-10h.s1
+    span:
+    - body
+    - 10960
+    - 11154
+  label: 蒺藜子
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-239-7h.s1
+    span:
+    - body
+    - 11154
+    - 11317
+  label: 肉蓯蓉
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-239-20h.s1
+    span:
+    - body
+    - 11317
+    - 11438
+  label: 白英
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-240-13h.s1
+    span:
+    - body
+    - 11438
+    - 11552
+  label: 白蒿
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-241-7h.s1
+    span:
+    - body
+    - 11552
+    - 11678
+  label: 茵蔯蒿
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-242-1h.s1
+    span:
+    - body
+    - 11678
+    - 11814
+  label: 漏蘆
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-242-12h.s1
+    span:
+    - body
+    - 11814
+    - 11946
+  label: 茜根
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-242-19h.s1
+    span:
+    - body
+    - 11946
+    - 12118
+  label: 旋花
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-243-14h.s1
+    span:
+    - body
+    - 12118
+    - 12225
+  label: 藍實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-244-1h.s1
+    span:
+    - body
+    - 12225
+    - 12393
+  label: 景天
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-244-18h.s1
+    span:
+    - body
+    - 12393
+    - 12531
+  label: 天名精
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-245-12h.s1
+    span:
+    - body
+    - 12531
+    - 12627
+  label: 王不留行
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-246-3h.s1
+    span:
+    - body
+    - 12627
+    - 12702
+  label: 蒲黄
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-246-8h.s1
+    span:
+    - body
+    - 12702
+    - 12800
+  label: 香蒲
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-246-17h.s1
+    span:
+    - body
+    - 12800
+    - 12909
+  label: 蘭草
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-247-8h.s1
+    span:
+    - body
+    - 12909
+    - 13015
+  label: 蘼蕪
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-247-17h.s1
+    span:
+    - body
+    - 13015
+    - 13133
+  label: 雲實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-248-11h.s1
+    span:
+    - body
+    - 13133
+    - 13249
+  label: 徐長卿
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-248-19h.s1
+    span:
+    - body
+    - 13249
+    - 13335
+  label: 姑活
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-249-10h.s1
+    span:
+    - body
+    - 13335
+    - 13399
+  label: 屈草
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-249-19h.s1
+    span:
+    - body
+    - 13399
+    - 13472
+  label: 翹根
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-250-6h.s1
+    span:
+    - body
+    - 13472
+    - 13787
+  label: 牡荆實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-251-14h.s1
+    span:
+    - body
+    - 13787
+    - 13929
+  label: 秦椒
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-252-12h.s1
+    span:
+    - body
+    - 13929
+    - 14052
+  label: 蔓荆實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-253-8h.s1
+    span:
+    - body
+    - 14052
+    - 14151
+  label: 女貞實
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-254-3h.s1
+    span:
+    - body
+    - 14151
+    - 14410
+  label: 桑上寄生
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-255-12h.s1
+    span:
+    - body
+    - 14410
+    - 14540
+  label: 蕤核
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-256-8h.s1
+    span:
+    - body
+    - 14540
+    - 14694
+  label: 沉香
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-257-3h.s1
+    span:
+    - body
+    - 14694
+    - 14864
+  label: 辛夷
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec003_Shang_007-258-5h.s1
+    span:
+    - body
+    - 14864
+    - 15032
+  label: 榆皮
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-260-1h.s1
+    span:
+    - body
+    - 0
+    - 12232
+  label: 卷第四草木中品
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-260-2h.s1
+    span:
+    - body
+    - 7
+    - 192
+  label: 當歸
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-260-9h.s1
+    span:
+    - body
+    - 191
+    - 192
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-261-5h.s1
+    span:
+    - body
+    - 192
+    - 413
+  label: 防風
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-261-13h.s1
+    span:
+    - body
+    - 412
+    - 413
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-262-5h.s1
+    span:
+    - body
+    - 413
+    - 535
+  label: 秦艽
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-262-10h.s1
+    span:
+    - body
+    - 534
+    - 535
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-262-13h.s1
+    span:
+    - body
+    - 535
+    - 743
+  label: 黄耆
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-263-5h.s1
+    span:
+    - body
+    - 742
+    - 743
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-263-9h.s1
+    span:
+    - body
+    - 743
+    - 927
+  label: 吴茱萸
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-263-16h.s1
+    span:
+    - body
+    - 926
+    - 927
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-264-11h.s1
+    span:
+    - body
+    - 927
+    - 1144
+  label: 黄芩
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-265-2h.s1
+    span:
+    - body
+    - 1143
+    - 1144
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-265-10h.s1
+    span:
+    - body
+    - 1144
+    - 1320
+  label: 黄連
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-265-17h.s1
+    span:
+    - body
+    - 1319
+    - 1320
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-266-6h.s1
+    span:
+    - body
+    - 1320
+    - 1458
+  label: 五味子
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-266-11h.s1
+    span:
+    - body
+    - 1457
+    - 1458
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-266-15h.s1
+    span:
+    - body
+    - 1458
+    - 1581
+  label: 决明子
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-267-3h.s1
+    span:
+    - body
+    - 1580
+    - 1581
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-267-9h.s1
+    span:
+    - body
+    - 1581
+    - 1758
+  label: 芍藥
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-267-16h.s1
+    span:
+    - body
+    - 1757
+    - 1758
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-268-9h.s1
+    span:
+    - body
+    - 1758
+    - 1961
+  label: 桔梗
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-268-17h.s1
+    span:
+    - body
+    - 1960
+    - 1961
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-269-8h.s1
+    span:
+    - body
+    - 1961
+    - 2197
+  label: 芎藭
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-269-16h.s1
+    span:
+    - body
+    - 2196
+    - 2197
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-270-5h.s1
+    span:
+    - body
+    - 2197
+    - 2352
+  label: 藁本
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-270-11h.s1
+    span:
+    - body
+    - 2351
+    - 2352
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-270-14h.s1
+    span:
+    - body
+    - 2352
+    - 2549
+  label: 麻黄
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-271-5h.s1
+    span:
+    - body
+    - 2548
+    - 2549
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-271-10h.s1
+    span:
+    - body
+    - 2549
+    - 2783
+  label: 葛根
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-272-2h.s1
+    span:
+    - body
+    - 2782
+    - 2783
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-272-9h.s1
+    span:
+    - body
+    - 2783
+    - 2911
+  label: 前胡
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-272-14h.s1
+    span:
+    - body
+    - 2910
+    - 2911
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-272-17h.s1
+    span:
+    - body
+    - 2911
+    - 3094
+  label: 知母
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-273-8h.s1
+    span:
+    - body
+    - 3093
+    - 3094
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-273-13h.s1
+    span:
+    - body
+    - 3094
+    - 3161
+  label: 大青
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-274-1h.s1
+    span:
+    - body
+    - 3160
+    - 3161
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-274-2h.s1
+    span:
+    - body
+    - 3161
+    - 3306
+  label: 貝母
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-274-8h.s1
+    span:
+    - body
+    - 3305
+    - 3306
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-274-16h.s1
+    span:
+    - body
+    - 3306
+    - 3497
+  label: 栝樓根
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-275-6h.s1
+    span:
+    - body
+    - 3496
+    - 3497
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-275-11h.s1
+    span:
+    - body
+    - 3497
+    - 3671
+  label: 丹參
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-276-2h.s1
+    span:
+    - body
+    - 3670
+    - 3671
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-276-7h.s1
+    span:
+    - body
+    - 3671
+    - 3848
+  label: 厚朴
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-276-15h.s1
+    span:
+    - body
+    - 3847
+    - 3848
+  label: 注
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-277-13h.s1
+    span:
+    - body
+    - 3848
+    - 4111
+  label: 竹葉
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-279-16h.s1
+    span:
+    - body
+    - 4111
+    - 4288
+  label: 玄參
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-280-14h.s1
+    span:
+    - body
+    - 4288
+    - 4453
+  label: 沙參
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-281-10h.s1
+    span:
+    - body
+    - 4453
+    - 4657
+  label: 苦參
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-282-8h.s1
+    span:
+    - body
+    - 4657
+    - 4910
+  label: 續斷
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-283-4h.s1
+    span:
+    - body
+    - 4910
+    - 5061
+  label: 枳實
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-283-18h.s1
+    span:
+    - body
+    - 5061
+    - 5238
+  label: 山茱萸
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-285-1h.s1
+    span:
+    - body
+    - 5238
+    - 5510
+  label: 桑根白皮
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-286-19h.s1
+    span:
+    - body
+    - 5510
+    - 5629
+  label: 松蘿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-287-15h.s1
+    span:
+    - body
+    - 5629
+    - 5715
+  label: 白棘
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-288-10h.s1
+    span:
+    - body
+    - 5715
+    - 5861
+  label: 棘剌花
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-289-10h.s1
+    span:
+    - body
+    - 5861
+    - 6012
+  label: 狗脊
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-290-9h.s1
+    span:
+    - body
+    - 6012
+    - 6116
+  label: 萆薢
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-290-18h.s1
+    span:
+    - body
+    - 6116
+    - 6191
+  label: 菝葜
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-291-4h.s1
+    span:
+    - body
+    - 6191
+    - 6336
+  label: 石韋
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-291-16h.s1
+    span:
+    - body
+    - 6336
+    - 6471
+  label: 通草
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-292-12h.s1
+    span:
+    - body
+    - 6471
+    - 6664
+  label: 瞿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-293-8h.s1
+    span:
+    - body
+    - 6664
+    - 6761
+  label: 敗醬
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-293-20h.s1
+    span:
+    - body
+    - 6761
+    - 6911
+  label: 秦皮
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-294-16h.s1
+    span:
+    - body
+    - 6911
+    - 7065
+  label: 白芷
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-295-13h.s1
+    span:
+    - body
+    - 7065
+    - 7141
+  label: 杜蘅
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-295-16h.s1
+    span:
+    - body
+    - 7141
+    - 7300
+  label: 杜若
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-296-12h.s1
+    span:
+    - body
+    - 7300
+    - 7483
+  label: 蘗木
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-297-14h.s1
+    span:
+    - body
+    - 7483
+    - 7628
+  label: 木蘭
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-298-16h.s1
+    span:
+    - body
+    - 7628
+    - 7760
+  label: 白薇
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-299-8h.s1
+    span:
+    - body
+    - 7760
+    - 7887
+  label: 葈耳實
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-300-1h.s1
+    span:
+    - body
+    - 7887
+    - 8018
+  label: 茅根
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-300-15h.s1
+    span:
+    - body
+    - 8018
+    - 8155
+  label: 百合
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-301-11h.s1
+    span:
+    - body
+    - 8155
+    - 8250
+  label: 酸漿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-301-20h.s1
+    span:
+    - body
+    - 8250
+    - 8351
+  label: 滛羊藿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-302-13h.s1
+    span:
+    - body
+    - 8351
+    - 8464
+  label: 蠡實
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-303-2h.s1
+    span:
+    - body
+    - 8464
+    - 8591
+  label: 枝子
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-303-14h.s1
+    span:
+    - body
+    - 8591
+    - 8692
+  label: 檳榔
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-304-4h.s1
+    span:
+    - body
+    - 8692
+    - 8835
+  label: 合歡
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-305-4h.s1
+    span:
+    - body
+    - 8835
+    - 8942
+  label: 衛矛
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-305-17h.s1
+    span:
+    - body
+    - 8942
+    - 9089
+  label: 紫葳
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-306-14h.s1
+    span:
+    - body
+    - 9089
+    - 9197
+  label: 蕪荑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-307-8h.s1
+    span:
+    - body
+    - 9197
+    - 9328
+  label: 紫草
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-307-18h.s1
+    span:
+    - body
+    - 9328
+    - 9453
+  label: 紫菀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-308-13h.s1
+    span:
+    - body
+    - 9453
+    - 9577
+  label: 白鮮
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-309-6h.s1
+    span:
+    - body
+    - 9577
+    - 9690
+  label: 白兔藿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-309-15h.s1
+    span:
+    - body
+    - 9690
+    - 9828
+  label: 營實
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-310-7h.s1
+    span:
+    - body
+    - 9828
+    - 9923
+  label: 薇銜
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-310-16h.s1
+    span:
+    - body
+    - 9923
+    - 10014
+  label: 井中苔及萍
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-311-4h.s1
+    span:
+    - body
+    - 10014
+    - 10111
+  label: 王孫
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-311-13h.s1
+    span:
+    - body
+    - 10111
+    - 10155
+  label: 爵牀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-311-19h.s1
+    span:
+    - body
+    - 10155
+    - 10204
+  label: 白前
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-312-4h.s1
+    span:
+    - body
+    - 10204
+    - 10332
+  label: 百部根
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-312-11h.s1
+    span:
+    - body
+    - 10332
+    - 10492
+  label: 王瓜
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-313-3h.s1
+    span:
+    - body
+    - 10492
+    - 10552
+  label: 薺苨
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-313-10h.s1
+    span:
+    - body
+    - 10552
+    - 10607
+  label: 高良薑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-313-15h.s1
+    span:
+    - body
+    - 10607
+    - 10667
+  label: 馬先蒿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-314-3h.s1
+    span:
+    - body
+    - 10667
+    - 10738
+  label: 蜀羊泉
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-314-13h.s1
+    span:
+    - body
+    - 10738
+    - 10789
+  label: 積雪草
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-315-2h.s1
+    span:
+    - body
+    - 10789
+    - 10849
+  label: 惡實
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-315-9h.s1
+    span:
+    - body
+    - 10849
+    - 10939
+  label: 莎草根
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-315-17h.s1
+    span:
+    - body
+    - 10939
+    - 11019
+  label: 大
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-316-5h.s1
+    span:
+    - body
+    - 11019
+    - 11124
+  label: 垣衣
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-316-14h.s1
+    span:
+    - body
+    - 11124
+    - 11221
+  label: 艾葉
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-316-18h.s1
+    span:
+    - body
+    - 11221
+    - 11275
+  label: 牡蒿
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-317-8h.s1
+    span:
+    - body
+    - 11275
+    - 11342
+  label: 假蘇
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-317-19h.s1
+    span:
+    - body
+    - 11342
+    - 11450
+  label: 水萍
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-318-17h.s1
+    span:
+    - body
+    - 11450
+    - 11570
+  label: 海藻
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-319-13h.s1
+    span:
+    - body
+    - 11570
+    - 11681
+  label: 昆布
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-319-20h.s1
+    span:
+    - body
+    - 11681
+    - 11758
+  label: 葒草
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-320-6h.s1
+    span:
+    - body
+    - 11758
+    - 11813
+  label: 陟釐
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-320-9h.s1
+    span:
+    - body
+    - 11813
+    - 11962
+  label: 薰草
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-320-19h.s1
+    span:
+    - body
+    - 11962
+    - 12154
+  label: 乾薑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec003_Shang_008-321-14h.s1
+    span:
+    - body
+    - 12154
+    - 12232
+  label: 五色符
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-322-1h.s1
+    span:
+    - body
+    - 0
+    - 12404
+  label: 卷第五草木下品
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-322-2h.s1
+    span:
+    - body
+    - 7
+    - 251
+  label: 大黄將軍
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-323-1h.s1
+    span:
+    - body
+    - 251
+    - 518
+  label: 蜀椒
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-324-14h.s1
+    span:
+    - body
+    - 518
+    - 611
+  label: 蔓椒
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-325-14h.s1
+    span:
+    - body
+    - 611
+    - 748
+  label: 莽草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-326-12h.s1
+    span:
+    - body
+    - 748
+    - 816
+  label: 鼠李
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-327-1h.s1
+    span:
+    - body
+    - 816
+    - 867
+  label: 枇杷葉
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-327-11h.s1
+    span:
+    - body
+    - 867
+    - 1091
+  label: 巴豆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-329-11h.s1
+    span:
+    - body
+    - 1091
+    - 1253
+  label: 甘遂
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-330-8h.s1
+    span:
+    - body
+    - 1253
+    - 1405
+  label: 葶藶
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-331-8h.s1
+    span:
+    - body
+    - 1405
+    - 1501
+  label: 大戟
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-331-16h.s1
+    span:
+    - body
+    - 1501
+    - 1612
+  label: 澤漆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-332-7h.s1
+    span:
+    - body
+    - 1612
+    - 1755
+  label: 芫華
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-333-8h.s1
+    span:
+    - body
+    - 1755
+    - 1863
+  label: 蕘華
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-333-19h.s1
+    span:
+    - body
+    - 1863
+    - 2037
+  label: 旋覆華
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-335-2h.s1
+    span:
+    - body
+    - 2037
+    - 2326
+  label: 鈎吻
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-336-14h.s1
+    span:
+    - body
+    - 2326
+    - 2382
+  label: 蚤休
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-336-19h.s1
+    span:
+    - body
+    - 2382
+    - 2433
+  label: 虎杖根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-337-2h.s1
+    span:
+    - body
+    - 2433
+    - 2534
+  label: 石長生
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-337-10h.s1
+    span:
+    - body
+    - 2534
+    - 2630
+  label: 鼠尾草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-337-16h.s1
+    span:
+    - body
+    - 2630
+    - 2685
+  label: 屋遊
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-338-2h.s1
+    span:
+    - body
+    - 2685
+    - 2801
+  label: 牽牛子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-338-6h.s1
+    span:
+    - body
+    - 2801
+    - 2963
+  label: 狼毒
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-338-17h.s1
+    span:
+    - body
+    - 2963
+    - 3191
+  label: 鬼臼
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-339-12h.s1
+    span:
+    - body
+    - 3191
+    - 3236
+  label: 蘆根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-339-16h.s1
+    span:
+    - body
+    - 3236
+    - 3312
+  label: 甘蕉根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-340-1h.s1
+    span:
+    - body
+    - 3312
+    - 3386
+  label: 萹蓄
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-340-9h.s1
+    span:
+    - body
+    - 3386
+    - 3503
+  label: 商陸
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-340-17h.s1
+    span:
+    - body
+    - 3503
+    - 3593
+  label: 女青
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-341-6h.s1
+    span:
+    - body
+    - 3593
+    - 3647
+  label: 白附子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-341-8h.s1
+    span:
+    - body
+    - 3647
+    - 3856
+  label: 天雄
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-342-14h.s1
+    span:
+    - body
+    - 3856
+    - 4134
+  label: 烏頭
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-344-8h.s1
+    span:
+    - body
+    - 4134
+    - 4324
+  label: 附子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-345-7h.s1
+    span:
+    - body
+    - 4324
+    - 4457
+  label: 側子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-345-17h.s1
+    span:
+    - body
+    - 4457
+    - 4550
+  label: 羊躑躅
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-346-9h.s1
+    span:
+    - body
+    - 4550
+    - 4671
+  label: 茵芋
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-347-2h.s1
+    span:
+    - body
+    - 4671
+    - 4879
+  label: 射干
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-348-7h.s1
+    span:
+    - body
+    - 4879
+    - 4986
+  label: 鳶尾
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-349-2h.s1
+    span:
+    - body
+    - 4986
+    - 5040
+  label: 由跋根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-349-8h.s1
+    span:
+    - body
+    - 5040
+    - 5091
+  label: 藥實根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-349-14h.s1
+    span:
+    - body
+    - 5091
+    - 5268
+  label: 皂莢
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-350-15h.s1
+    span:
+    - body
+    - 5268
+    - 5365
+  label: 楝實
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-351-4h.s1
+    span:
+    - body
+    - 5365
+    - 5500
+  label: 柳華
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-352-1h.s1
+    span:
+    - body
+    - 5500
+    - 5650
+  label: 桐葉
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-352-17h.s1
+    span:
+    - body
+    - 5650
+    - 5755
+  label: 梓白皮
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-353-13h.s1
+    span:
+    - body
+    - 5755
+    - 5875
+  label: 蜀漆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-354-6h.s1
+    span:
+    - body
+    - 5875
+    - 6090
+  label: 半夏
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-355-8h.s1
+    span:
+    - body
+    - 6090
+    - 6258
+  label: 欵冬
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-356-6h.s1
+    span:
+    - body
+    - 6258
+    - 6388
+  label: 牡丹
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-356-18h.s1
+    span:
+    - body
+    - 6388
+    - 6538
+  label: 防己
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-357-11h.s1
+    span:
+    - body
+    - 6538
+    - 6584
+  label: 赤赫
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-357-16h.s1
+    span:
+    - body
+    - 6584
+    - 6692
+  label: 黄環
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-358-12h.s1
+    span:
+    - body
+    - 6692
+    - 6809
+  label: 巴戟天
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-359-1h.s1
+    span:
+    - body
+    - 6809
+    - 6920
+  label: 石南草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-359-13h.s1
+    span:
+    - body
+    - 6920
+    - 7041
+  label: 女菀
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-360-3h.s1
+    span:
+    - body
+    - 7041
+    - 7187
+  label: 地榆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-360-14h.s1
+    span:
+    - body
+    - 7187
+    - 7368
+  label: 五加皮
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-361-18h.s1
+    span:
+    - body
+    - 7368
+    - 7534
+  label: 澤蘭
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-362-14h.s1
+    span:
+    - body
+    - 7534
+    - 7638
+  label: 紫參
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-363-6h.s1
+    span:
+    - body
+    - 7638
+    - 7739
+  label: 蛇全
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-363-17h.s1
+    span:
+    - body
+    - 7739
+    - 7802
+  label: 草蒿
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-364-4h.s1
+    span:
+    - body
+    - 7802
+    - 7911
+  label: 雚
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-364-16h.s1
+    span:
+    - body
+    - 7911
+    - 7970
+  label: 麕舌
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-365-4h.s1
+    span:
+    - body
+    - 7970
+    - 8119
+  label: 雷丸
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-366-1h.s1
+    span:
+    - body
+    - 8119
+    - 8256
+  label: 貫衆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-367-1h.s1
+    span:
+    - body
+    - 8256
+    - 8385
+  label: 青葙子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-367-18h.s1
+    span:
+    - body
+    - 8385
+    - 8489
+  label: 牙子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-368-13h.s1
+    span:
+    - body
+    - 8489
+    - 8619
+  label: 藜蘆
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-369-7h.s1
+    span:
+    - body
+    - 8619
+    - 8671
+  label: 赭魁
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-369-11h.s1
+    span:
+    - body
+    - 8671
+    - 8721
+  label: 及巳
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-369-17h.s1
+    span:
+    - body
+    - 8721
+    - 8798
+  label: 連翹
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-370-3h.s1
+    span:
+    - body
+    - 8798
+    - 8889
+  label: 白頭翁
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-370-18h.s1
+    span:
+    - body
+    - 8889
+    - 9033
+  label: 茹
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-371-9h.s1
+    span:
+    - body
+    - 9033
+    - 9161
+  label: 白歛
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-371-19h.s1
+    span:
+    - body
+    - 9161
+    - 9269
+  label: 白及
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-372-8h.s1
+    span:
+    - body
+    - 9269
+    - 9431
+  label: 占斯
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-373-1h.s1
+    span:
+    - body
+    - 9431
+    - 9617
+  label: 蜚廉
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-373-12h.s1
+    span:
+    - body
+    - 9617
+    - 9728
+  label: 虎掌
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-374-2h.s1
+    span:
+    - body
+    - 9728
+    - 9878
+  label: 莨菪
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-374-16h.s1
+    span:
+    - body
+    - 9878
+    - 9925
+  label: 欒華
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-375-1h.s1
+    span:
+    - body
+    - 9925
+    - 10005
+  label: 杉材
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-375-9h.s1
+    span:
+    - body
+    - 10005
+    - 10046
+  label: 楠材
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-375-11h.s1
+    span:
+    - body
+    - 10046
+    - 10117
+  label: 榧實
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-376-1h.s1
+    span:
+    - body
+    - 10117
+    - 10176
+  label: 紫真檀木
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-376-7h.s1
+    span:
+    - body
+    - 10176
+    - 10239
+  label: 淮木
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-376-12h.s1
+    span:
+    - body
+    - 10239
+    - 10313
+  label: 别羇
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-376-19h.s1
+    span:
+    - body
+    - 10313
+    - 10400
+  label: 石下長卿
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-377-8h.s1
+    span:
+    - body
+    - 10400
+    - 10521
+  label: 羊桃
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-377-19h.s1
+    span:
+    - body
+    - 10521
+    - 10613
+  label: 羊蹄
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-378-12h.s1
+    span:
+    - body
+    - 10613
+    - 10671
+  label: 鹿藿
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-378-17h.s1
+    span:
+    - body
+    - 10671
+    - 10728
+  label: 練石草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-379-1h.s1
+    span:
+    - body
+    - 10728
+    - 10798
+  label: 牛扁
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-379-6h.s1
+    span:
+    - body
+    - 10798
+    - 10849
+  label: 陸英
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-379-10h.s1
+    span:
+    - body
+    - 10849
+    - 10902
+  label: 蕈草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-379-14h.s1
+    span:
+    - body
+    - 10902
+    - 10966
+  label: 藎草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-379-20h.s1
+    span:
+    - body
+    - 10966
+    - 11063
+  label: 恒山
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-380-9h.s1
+    span:
+    - body
+    - 11063
+    - 11128
+  label: 夏枯草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-380-17h.s1
+    span:
+    - body
+    - 11128
+    - 11171
+  label: 蘘草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-381-4h.s1
+    span:
+    - body
+    - 11171
+    - 11224
+  label: 戈共
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-381-10h.s1
+    span:
+    - body
+    - 11224
+    - 11285
+  label: 烏韮
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-381-15h.s1
+    span:
+    - body
+    - 11285
+    - 11462
+  label: 溲疏
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-382-13h.s1
+    span:
+    - body
+    - 11462
+    - 11563
+  label: 釣樟根皮
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-382-20h.s1
+    span:
+    - body
+    - 11563
+    - 11631
+  label: 櫸樹皮
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-383-6h.s1
+    span:
+    - body
+    - 11631
+    - 11680
+  label: 釣藤
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-383-10h.s1
+    span:
+    - body
+    - 11680
+    - 11730
+  label: 苦芺
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-383-13h.s1
+    span:
+    - body
+    - 11730
+    - 11767
+  label: 馬鞭草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-383-15h.s1
+    span:
+    - body
+    - 11767
+    - 11827
+  label: 馬勃
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-2h.s1
+    span:
+    - body
+    - 11827
+    - 11878
+  label: 鷄腸草
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-4h.s1
+    span:
+    - body
+    - 11878
+    - 11935
+  label: 蛇苺汁
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-7h.s1
+    span:
+    - body
+    - 11935
+    - 11976
+  label: 苧根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-9h.s1
+    span:
+    - body
+    - 11976
+    - 12014
+  label: 孤根
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-11h.s1
+    span:
+    - body
+    - 12014
+    - 12072
+  label: 狼跋子
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-384-14h.s1
+    span:
+    - body
+    - 12072
+    - 12153
+  label: 蒴藋
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-385-4h.s1
+    span:
+    - body
+    - 12153
+    - 12199
+  label: 船舡
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-385-8h.s1
+    span:
+    - body
+    - 12199
+    - 12256
+  label: 敗船茹
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-385-11h.s1
+    span:
+    - body
+    - 12256
+    - 12309
+  label: 敗蒲席
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-385-16h.s1
+    span:
+    - body
+    - 12309
+    - 12348
+  label: 敗天公
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ec003_Shang_009-385-18h.s1
+    span:
+    - body
+    - 12348
+    - 12404
+  label: 鼠姑
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-387-1h.s1
+    span:
+    - body
+    - 0
+    - 16876
+  label: 卷第六蟲獸三品
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-387-2h.s1
+    span:
+    - body
+    - 7
+    - 4904
+  label: 上品
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-387-3h.s1
+    span:
+    - body
+    - 9
+    - 325
+  label: 龍骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-388-3h.s1
+    span:
+    - body
+    - 324
+    - 325
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-389-2h.s1
+    span:
+    - body
+    - 325
+    - 538
+  label: 牛黄
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-389-9h.s1
+    span:
+    - body
+    - 537
+    - 538
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-390-4h.s1
+    span:
+    - body
+    - 538
+    - 915
+  label: 麝香
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-390-17h.s1
+    span:
+    - body
+    - 914
+    - 915
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-392-10h.s1
+    span:
+    - body
+    - 915
+    - 960
+  label: 人乳汁
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-392-12h.s1
+    span:
+    - body
+    - 960
+    - 1129
+  label: 髪
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-392-18h.s1
+    span:
+    - body
+    - 1128
+    - 1129
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-393-16h.s1
+    span:
+    - body
+    - 1129
+    - 1204
+  label: 亂髪
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-394-2h.s1
+    span:
+    - body
+    - 1203
+    - 1204
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-394-7h.s1
+    span:
+    - body
+    - 1204
+    - 1260
+  label: 頭垢
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-394-10h.s1
+    span:
+    - body
+    - 1259
+    - 1260
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-394-15h.s1
+    span:
+    - body
+    - 1260
+    - 1537
+  label: 人屎
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-395-5h.s1
+    span:
+    - body
+    - 1536
+    - 1537
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-395-14h.s1
+    span:
+    - body
+    - 1537
+    - 1567
+  label: 馬乳
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-395-16h.s1
+    span:
+    - body
+    - 1567
+    - 1606
+  label: 牛乳
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-395-18h.s1
+    span:
+    - body
+    - 1605
+    - 1606
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-1h.s1
+    span:
+    - body
+    - 1606
+    - 1646
+  label: 羊乳
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-3h.s1
+    span:
+    - body
+    - 1645
+    - 1646
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-5h.s1
+    span:
+    - body
+    - 1646
+    - 1728
+  label: 酪酥
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-8h.s1
+    span:
+    - body
+    - 1727
+    - 1728
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-13h.s1
+    span:
+    - body
+    - 1728
+    - 1861
+  label: 熊脂
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-396-19h.s1
+    span:
+    - body
+    - 1860
+    - 1861
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-397-11h.s1
+    span:
+    - body
+    - 1861
+    - 2177
+  label: 石蜜
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-398-3h.s1
+    span:
+    - body
+    - 2176
+    - 2177
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-398-11h.s1
+    span:
+    - body
+    - 2177
+    - 2372
+  label: 蜜蠟
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-398-18h.s1
+    span:
+    - body
+    - 2371
+    - 2372
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-399-1h.s1
+    span:
+    - body
+    - 2372
+    - 2521
+  label: 蜂子
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-399-7h.s1
+    span:
+    - body
+    - 2520
+    - 2521
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-399-10h.s1
+    span:
+    - body
+    - 2521
+    - 2696
+  label: 白膠
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-399-17h.s1
+    span:
+    - body
+    - 2695
+    - 2696
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-400-9h.s1
+    span:
+    - body
+    - 2696
+    - 2885
+  label: 阿膠
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-400-16h.s1
+    span:
+    - body
+    - 2884
+    - 2885
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-401-10h.s1
+    span:
+    - body
+    - 2885
+    - 2977
+  label: 白鵝膏
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-401-13h.s1
+    span:
+    - body
+    - 2976
+    - 2977
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-401-18h.s1
+    span:
+    - body
+    - 2977
+    - 3152
+  label: 鴈肪
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-402-6h.s1
+    span:
+    - body
+    - 3151
+    - 3152
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-402-19h.s1
+    span:
+    - body
+    - 3152
+    - 3639
+  label: 丹雄鷄
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-404-5h.s1
+    span:
+    - body
+    - 3638
+    - 3639
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-406-1h.s1
+    span:
+    - body
+    - 3639
+    - 3758
+  label: 鶩肪
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-406-6h.s1
+    span:
+    - body
+    - 3757
+    - 3758
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-406-15h.s1
+    span:
+    - body
+    - 3758
+    - 4043
+  label: 牡蠣
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-407-6h.s1
+    span:
+    - body
+    - 4042
+    - 4043
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-407-12h.s1
+    span:
+    - body
+    - 4043
+    - 4131
+  label: 魁蛤
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-407-16h.s1
+    span:
+    - body
+    - 4130
+    - 4131
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-407-18h.s1
+    span:
+    - body
+    - 4131
+    - 4234
+  label: 石決明
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-408-3h.s1
+    span:
+    - body
+    - 4233
+    - 4234
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-408-7h.s1
+    span:
+    - body
+    - 4234
+    - 4360
+  label: 秦龜
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-408-12h.s1
+    span:
+    - body
+    - 4360
+    - 4495
+  label: 鮑魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-408-17h.s1
+    span:
+    - body
+    - 4495
+    - 4622
+  label: 鮧魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-409-3h.s1
+    span:
+    - body
+    - 4622
+    - 4904
+  label: 鱓魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-409-12h.s1
+    span:
+    - body
+    - 4903
+    - 4904
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-409-15h.s1
+    span:
+    - body
+    - 4904
+    - 10925
+  label: 中品
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-409-16h.s1
+    span:
+    - body
+    - 4906
+    - 5101
+  label: 零羊角
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-410-6h.s1
+    span:
+    - body
+    - 5100
+    - 5101
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-411-1h.s1
+    span:
+    - body
+    - 5101
+    - 5189
+  label: 羖羊角
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-411-5h.s1
+    span:
+    - body
+    - 5189
+    - 5421
+  label: 羊髓
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-411-14h.s1
+    span:
+    - body
+    - 5420
+    - 5421
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-412-13h.s1
+    span:
+    - body
+    - 5421
+    - 5686
+  label: 犀角
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-413-5h.s1
+    span:
+    - body
+    - 5685
+    - 5686
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-414-7h.s1
+    span:
+    - body
+    - 5686
+    - 5978
+  label: 牛角
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-415-4h.s1
+    span:
+    - body
+    - 5977
+    - 5978
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-416-1h.s1
+    span:
+    - body
+    - 5978
+    - 6341
+  label: 白馬莖
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-416-15h.s1
+    span:
+    - body
+    - 6340
+    - 6341
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-418-7h.s1
+    span:
+    - body
+    - 6341
+    - 6593
+  label: 牡狗陰莖
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-419-1h.s1
+    span:
+    - body
+    - 6592
+    - 6593
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-419-18h.s1
+    span:
+    - body
+    - 6593
+    - 6914
+  label: 鹿茸
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-420-11h.s1
+    span:
+    - body
+    - 6913
+    - 6914
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-421-15h.s1
+    span:
+    - body
+    - 6914
+    - 6993
+  label: 麞骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-422-1h.s1
+    span:
+    - body
+    - 6992
+    - 6993
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-422-5h.s1
+    span:
+    - body
+    - 6993
+    - 7161
+  label: 虎骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-422-10h.s1
+    span:
+    - body
+    - 7108
+    - 7109
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-422-16h.s1
+    span:
+    - body
+    - 7109
+    - 7160
+  label: 豹肉
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-422-18h.s1
+    span:
+    - body
+    - 7160
+    - 7161
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-423-1h.s1
+    span:
+    - body
+    - 7161
+    - 7296
+  label: 狸骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-423-6h.s1
+    span:
+    - body
+    - 7295
+    - 7296
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-423-15h.s1
+    span:
+    - body
+    - 7296
+    - 7398
+  label: 兔頭骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-424-1h.s1
+    span:
+    - body
+    - 7397
+    - 7398
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-424-10h.s1
+    span:
+    - body
+    - 7398
+    - 7458
+  label: 雉肉
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-424-13h.s1
+    span:
+    - body
+    - 7457
+    - 7458
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-424-18h.s1
+    span:
+    - body
+    - 7458
+    - 7508
+  label: 鷹屎白
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-425-1h.s1
+    span:
+    - body
+    - 7507
+    - 7508
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-425-3h.s1
+    span:
+    - body
+    - 7508
+    - 7658
+  label: 雀卵
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-425-9h.s1
+    span:
+    - body
+    - 7657
+    - 7658
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-425-15h.s1
+    span:
+    - body
+    - 7658
+    - 7721
+  label: 鸛骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-425-18h.s1
+    span:
+    - body
+    - 7720
+    - 7721
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-426-2h.s1
+    span:
+    - body
+    - 7721
+    - 7835
+  label: 雄鵲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-426-7h.s1
+    span:
+    - body
+    - 7834
+    - 7835
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-426-12h.s1
+    span:
+    - body
+    - 7835
+    - 7933
+  label: 伏翼
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-426-16h.s1
+    span:
+    - body
+    - 7932
+    - 7933
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-427-1h.s1
+    span:
+    - body
+    - 7933
+    - 8076
+  label: 蝟皮
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-427-6h.s1
+    span:
+    - body
+    - 8075
+    - 8076
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-427-10h.s1
+    span:
+    - body
+    - 8076
+    - 8308
+  label: 石龍子
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-427-18h.s1
+    span:
+    - body
+    - 8307
+    - 8308
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-428-3h.s1
+    span:
+    - body
+    - 8308
+    - 8431
+  label: 露蜂房
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-428-8h.s1
+    span:
+    - body
+    - 8430
+    - 8431
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-428-12h.s1
+    span:
+    - body
+    - 8431
+    - 8548
+  label: 樗鷄
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-428-17h.s1
+    span:
+    - body
+    - 8547
+    - 8548
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-429-2h.s1
+    span:
+    - body
+    - 8548
+    - 8778
+  label: 蚱蟬
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-429-9h.s1
+    span:
+    - body
+    - 8777
+    - 8778
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-429-12h.s1
+    span:
+    - body
+    - 8778
+    - 8913
+  label: 白殭蠶
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-429-17h.s1
+    span:
+    - body
+    - 8912
+    - 8913
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-430-4h.s1
+    span:
+    - body
+    - 8913
+    - 9066
+  label: 桑螵蛸
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-430-10h.s1
+    span:
+    - body
+    - 9065
+    - 9066
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-430-14h.s1
+    span:
+    - body
+    - 9066
+    - 9166
+  label: 蟲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-431-1h.s1
+    span:
+    - body
+    - 9165
+    - 9166
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-431-3h.s1
+    span:
+    - body
+    - 9166
+    - 9322
+  label: 蠐螬
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-431-9h.s1
+    span:
+    - body
+    - 9321
+    - 9322
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-431-14h.s1
+    span:
+    - body
+    - 9322
+    - 9475
+  label: 蛞
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-431-19h.s1
+    span:
+    - body
+    - 9474
+    - 9475
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-432-4h.s1
+    span:
+    - body
+    - 9475
+    - 9555
+  label: 海蛤
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-432-7h.s1
+    span:
+    - body
+    - 9554
+    - 9555
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-432-14h.s1
+    span:
+    - body
+    - 9555
+    - 9677
+  label: 文蛤
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-432-18h.s1
+    span:
+    - body
+    - 9676
+    - 9677
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-433-1h.s1
+    span:
+    - body
+    - 9677
+    - 9815
+  label: 鯉魚膽
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-433-6h.s1
+    span:
+    - body
+    - 9814
+    - 9815
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-433-8h.s1
+    span:
+    - body
+    - 9815
+    - 9906
+  label: 蠡魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-433-12h.s1
+    span:
+    - body
+    - 9906
+    - 10103
+  label: 龜甲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-434-3h.s1
+    span:
+    - body
+    - 10102
+    - 10103
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-434-8h.s1
+    span:
+    - body
+    - 10103
+    - 10287
+  label: 鼈甲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-434-15h.s1
+    span:
+    - body
+    - 10287
+    - 10446
+  label: 鮀魚甲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-435-3h.s1
+    span:
+    - body
+    - 10445
+    - 10446
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-435-5h.s1
+    span:
+    - body
+    - 10446
+    - 10572
+  label: 烏賊魚骨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-435-10h.s1
+    span:
+    - body
+    - 10571
+    - 10572
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-435-13h.s1
+    span:
+    - body
+    - 10572
+    - 10772
+  label: 蟹
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-436-1h.s1
+    span:
+    - body
+    - 10771
+    - 10772
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-436-9h.s1
+    span:
+    - body
+    - 10772
+    - 10837
+  label: 鰻鱺魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-436-12h.s1
+    span:
+    - body
+    - 10837
+    - 10925
+  label: 原蠶蛾
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-436-16h.s1
+    span:
+    - body
+    - 10925
+    - 16876
+  label: 下品
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-436-17h.s1
+    span:
+    - body
+    - 10927
+    - 11027
+  label: 六畜毛蹄甲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-437-5h.s1
+    span:
+    - body
+    - 11026
+    - 11027
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-437-12h.s1
+    span:
+    - body
+    - 11027
+    - 11079
+  label: 弓弩弦
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-437-15h.s1
+    span:
+    - body
+    - 11078
+    - 11079
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-437-17h.s1
+    span:
+    - body
+    - 11079
+    - 11133
+  label: 敗鼓皮
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-438-1h.s1
+    span:
+    - body
+    - 11133
+    - 11235
+  label: 鯪鯉甲
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-438-4h.s1
+    span:
+    - body
+    - 11235
+    - 11351
+  label: 獺肝
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-438-9h.s1
+    span:
+    - body
+    - 11350
+    - 11351
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-438-13h.s1
+    span:
+    - body
+    - 11351
+    - 11446
+  label: 狐陰莖
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-439-1h.s1
+    span:
+    - body
+    - 11445
+    - 11446
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-439-3h.s1
+    span:
+    - body
+    - 11446
+    - 11646
+  label: 麋脂
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-439-10h.s1
+    span:
+    - body
+    - 11645
+    - 11646
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-440-2h.s1
+    span:
+    - body
+    - 11646
+    - 11867
+  label: 蝦蟆
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-440-9h.s1
+    span:
+    - body
+    - 11866
+    - 11867
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-440-11h.s1
+    span:
+    - body
+    - 11867
+    - 11963
+  label: 鼃
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-440-15h.s1
+    span:
+    - body
+    - 11962
+    - 11963
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-440-17h.s1
+    span:
+    - body
+    - 11963
+    - 12141
+  label: 石蠶
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-441-5h.s1
+    span:
+    - body
+    - 12140
+    - 12141
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-441-9h.s1
+    span:
+    - body
+    - 12141
+    - 12302
+  label: 蚺蛇膽
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-441-14h.s1
+    span:
+    - body
+    - 12302
+    - 12452
+  label: 蝮蛇膽
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-442-1h.s1
+    span:
+    - body
+    - 12451
+    - 12452
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-442-3h.s1
+    span:
+    - body
+    - 12452
+    - 12603
+  label: 蛇蜕
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-442-9h.s1
+    span:
+    - body
+    - 12602
+    - 12603
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-442-15h.s1
+    span:
+    - body
+    - 12603
+    - 12774
+  label: 蜈蚣
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-443-1h.s1
+    span:
+    - body
+    - 12774
+    - 12934
+  label: 馬陸
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-443-6h.s1
+    span:
+    - body
+    - 12934
+    - 13148
+  label: 蠮螉
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-443-12h.s1
+    span:
+    - body
+    - 13147
+    - 13148
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-443-15h.s1
+    span:
+    - body
+    - 13148
+    - 13247
+  label: 雀甕
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-1h.s1
+    span:
+    - body
+    - 13246
+    - 13247
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-3h.s1
+    span:
+    - body
+    - 13247
+    - 13319
+  label: 彼子
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-7h.s1
+    span:
+    - body
+    - 13318
+    - 13319
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-11h.s1
+    span:
+    - body
+    - 13319
+    - 13410
+  label: 鼠婦
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-15h.s1
+    span:
+    - body
+    - 13409
+    - 13410
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-444-20h.s1
+    span:
+    - body
+    - 13410
+    - 13522
+  label: 螢火
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-445-5h.s1
+    span:
+    - body
+    - 13521
+    - 13522
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-445-8h.s1
+    span:
+    - body
+    - 13522
+    - 13614
+  label: 衣魚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-445-13h.s1
+    span:
+    - body
+    - 13613
+    - 13614
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-445-19h.s1
+    span:
+    - body
+    - 13614
+    - 13756
+  label: 白頸蚯蚓
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-446-6h.s1
+    span:
+    - body
+    - 13755
+    - 13756
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-446-8h.s1
+    span:
+    - body
+    - 13756
+    - 13885
+  label: 螻蛄
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-446-13h.s1
+    span:
+    - body
+    - 13884
+    - 13885
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-446-18h.s1
+    span:
+    - body
+    - 13885
+    - 14013
+  label: 蜣蜋
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-447-4h.s1
+    span:
+    - body
+    - 14012
+    - 14013
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-447-6h.s1
+    span:
+    - body
+    - 14013
+    - 14145
+  label: 地膽
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-447-11h.s1
+    span:
+    - body
+    - 14144
+    - 14145
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-447-14h.s1
+    span:
+    - body
+    - 14145
+    - 14341
+  label: 馬刀
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-448-3h.s1
+    span:
+    - body
+    - 14340
+    - 14341
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-448-6h.s1
+    span:
+    - body
+    - 14341
+    - 14441
+  label: 貝子
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-448-10h.s1
+    span:
+    - body
+    - 14441
+    - 14520
+  label: 田中螺汁
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-448-13h.s1
+    span:
+    - body
+    - 14520
+    - 14629
+  label: 蝸牛
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-448-17h.s1
+    span:
+    - body
+    - 14629
+    - 14709
+  label: 鵄頭
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-449-2h.s1
+    span:
+    - body
+    - 14708
+    - 14709
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-449-8h.s1
+    span:
+    - body
+    - 14709
+    - 14884
+  label: 鴆鳥毛
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-449-13h.s1
+    span:
+    - body
+    - 14883
+    - 14884
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-449-17h.s1
+    span:
+    - body
+    - 14884
+    - 14964
+  label: 鸕鷀屎
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-450-1h.s1
+    span:
+    - body
+    - 14963
+    - 14964
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-450-6h.s1
+    span:
+    - body
+    - 14964
+    - 15014
+  label: 孔雀屎
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-450-8h.s1
+    span:
+    - body
+    - 15013
+    - 15014
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-450-11h.s1
+    span:
+    - body
+    - 15014
+    - 15295
+  label: 豚卵
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-451-5h.s1
+    span:
+    - body
+    - 15294
+    - 15295
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-452-11h.s1
+    span:
+    - body
+    - 15295
+    - 15455
+  label: 屎
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-452-17h.s1
+    span:
+    - body
+    - 15454
+    - 15455
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-453-7h.s1
+    span:
+    - body
+    - 15455
+    - 15542
+  label: 天鼠屎
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-453-11h.s1
+    span:
+    - body
+    - 15541
+    - 15542
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-453-19h.s1
+    span:
+    - body
+    - 15542
+    - 15743
+  label: 鼹鼠
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-454-7h.s1
+    span:
+    - body
+    - 15742
+    - 15743
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-454-16h.s1
+    span:
+    - body
+    - 15743
+    - 15856
+  label: 鼠
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-455-1h.s1
+    span:
+    - body
+    - 15855
+    - 15856
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-455-9h.s1
+    span:
+    - body
+    - 15856
+    - 15987
+  label: 牡鼠
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-455-14h.s1
+    span:
+    - body
+    - 15986
+    - 15987
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-455-16h.s1
+    span:
+    - body
+    - 15987
+    - 16075
+  label: 斑猫
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-1h.s1
+    span:
+    - body
+    - 16075
+    - 16122
+  label: 芫青
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-3h.s1
+    span:
+    - body
+    - 16122
+    - 16290
+  label: 葛上亭長
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-9h.s1
+    span:
+    - body
+    - 16289
+    - 16290
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-11h.s1
+    span:
+    - body
+    - 16290
+    - 16415
+  label: 蜘蛛
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-15h.s1
+    span:
+    - body
+    - 16414
+    - 16415
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-456-17h.s1
+    span:
+    - body
+    - 16415
+    - 16483
+  label: 蜻蛉
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-457-1h.s1
+    span:
+    - body
+    - 16483
+    - 16561
+  label: 木
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-457-5h.s1
+    span:
+    - body
+    - 16561
+    - 16660
+  label: 蜚
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-457-9h.s1
+    span:
+    - body
+    - 16660
+    - 16758
+  label: 蜚蠊
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-457-13h.s1
+    span:
+    - body
+    - 16757
+    - 16758
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-458-4h.s1
+    span:
+    - body
+    - 16758
+    - 16876
+  label: 水蛭
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ec003_Shang_010-458-9h.s1
+    span:
+    - body
+    - 16875
+    - 16876
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-1h.s1
+    span:
+    - body
+    - 0
+    - 16442
+  label: 卷第七果菜米穀有名無實
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-2h.s1
+    span:
+    - body
+    - 11
+    - 2957
+  label: 果部藥物
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-3h.s1
+    span:
+    - body
+    - 15
+    - 1290
+  label: 上品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-4h.s1
+    span:
+    - body
+    - 17
+    - 98
+  label: 豆蔻
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-7h.s1
+    span:
+    - body
+    - 98
+    - 99
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-459-11h.s1
+    span:
+    - body
+    - 99
+    - 230
+  label: 葡萄
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-460-5h.s1
+    span:
+    - body
+    - 230
+    - 231
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-460-15h.s1
+    span:
+    - body
+    - 231
+    - 315
+  label: 蓮虆
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-460-19h.s1
+    span:
+    - body
+    - 315
+    - 316
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-461-2h.s1
+    span:
+    - body
+    - 316
+    - 416
+  label: 覆盆子
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-461-6h.s1
+    span:
+    - body
+    - 416
+    - 417
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-461-12h.s1
+    span:
+    - body
+    - 417
+    - 659
+  label: 大棗
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-462-5h.s1
+    span:
+    - body
+    - 659
+    - 660
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-463-10h.s1
+    span:
+    - body
+    - 660
+    - 792
+  label: 藕實莖
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-463-15h.s1
+    span:
+    - body
+    - 792
+    - 793
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-464-8h.s1
+    span:
+    - body
+    - 793
+    - 911
+  label: 鷄頭實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-464-13h.s1
+    span:
+    - body
+    - 911
+    - 912
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-465-5h.s1
+    span:
+    - body
+    - 912
+    - 1006
+  label: 芰實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-465-8h.s1
+    span:
+    - body
+    - 1006
+    - 1007
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-465-15h.s1
+    span:
+    - body
+    - 1007
+    - 1110
+  label: 栗
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-466-1h.s1
+    span:
+    - body
+    - 1110
+    - 1111
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-466-7h.s1
+    span:
+    - body
+    - 1111
+    - 1199
+  label: 嬰桃
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-466-11h.s1
+    span:
+    - body
+    - 1199
+    - 1200
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-466-15h.s1
+    span:
+    - body
+    - 1200
+    - 1289
+  label: 櫻桃
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-466-18h.s1
+    span:
+    - body
+    - 1289
+    - 1290
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-467-3h.s1
+    span:
+    - body
+    - 1290
+    - 1999
+  label: 中品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-467-4h.s1
+    span:
+    - body
+    - 1292
+    - 1412
+  label: 梅實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-467-10h.s1
+    span:
+    - body
+    - 1412
+    - 1413
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-468-6h.s1
+    span:
+    - body
+    - 1413
+    - 1523
+  label: 柿
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-468-10h.s1
+    span:
+    - body
+    - 1523
+    - 1524
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-468-16h.s1
+    span:
+    - body
+    - 1524
+    - 1680
+  label: 木瓜實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-469-3h.s1
+    span:
+    - body
+    - 1680
+    - 1681
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-469-14h.s1
+    span:
+    - body
+    - 1681
+    - 1764
+  label: 甘蔗
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-469-17h.s1
+    span:
+    - body
+    - 1764
+    - 1765
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-470-1h.s1
+    span:
+    - body
+    - 1765
+    - 1873
+  label: 芋
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-470-5h.s1
+    span:
+    - body
+    - 1873
+    - 1874
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-470-8h.s1
+    span:
+    - body
+    - 1874
+    - 1998
+  label: 烏芋
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-470-13h.s1
+    span:
+    - body
+    - 1998
+    - 1999
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-471-1h.s1
+    span:
+    - body
+    - 1999
+    - 2957
+  label: 下品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-471-2h.s1
+    span:
+    - body
+    - 2001
+    - 2095
+  label: 鬱核
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-471-6h.s1
+    span:
+    - body
+    - 2095
+    - 2096
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-471-14h.s1
+    span:
+    - body
+    - 2096
+    - 2250
+  label: 杏核人
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-472-4h.s1
+    span:
+    - body
+    - 2250
+    - 2251
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-472-14h.s1
+    span:
+    - body
+    - 2251
+    - 2588
+  label: 桃核人
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-473-9h.s1
+    span:
+    - body
+    - 2588
+    - 2589
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-474-17h.s1
+    span:
+    - body
+    - 2589
+    - 2719
+  label: 李核人
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-475-4h.s1
+    span:
+    - body
+    - 2719
+    - 2720
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-475-17h.s1
+    span:
+    - body
+    - 2720
+    - 2781
+  label: 梨
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-475-20h.s1
+    span:
+    - body
+    - 2781
+    - 2782
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-476-6h.s1
+    span:
+    - body
+    - 2782
+    - 2862
+  label: 柰
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-476-9h.s1
+    span:
+    - body
+    - 2862
+    - 2863
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-476-14h.s1
+    span:
+    - body
+    - 2863
+    - 2956
+  label: 安石榴
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-476-18h.s1
+    span:
+    - body
+    - 2956
+    - 2957
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-477-5h.s1
+    span:
+    - body
+    - 2957
+    - 6524
+  label: 菜部藥物
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-477-6h.s1
+    span:
+    - body
+    - 2961
+    - 4453
+  label: 上品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-477-7h.s1
+    span:
+    - body
+    - 2963
+    - 3028
+  label: 白瓜子
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-477-10h.s1
+    span:
+    - body
+    - 3028
+    - 3099
+  label: 白冬瓜
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-477-13h.s1
+    span:
+    - body
+    - 3099
+    - 3100
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-478-10h.s1
+    span:
+    - body
+    - 3100
+    - 3171
+  label: 冬葵子
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-478-13h.s1
+    span:
+    - body
+    - 3171
+    - 3376
+  label: 葵根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-479-4h.s1
+    span:
+    - body
+    - 3376
+    - 3377
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-480-4h.s1
+    span:
+    - body
+    - 3377
+    - 3560
+  label: 莧實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-480-11h.s1
+    span:
+    - body
+    - 3560
+    - 3561
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-481-1h.s1
+    span:
+    - body
+    - 3561
+    - 3881
+  label: 苦菜
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-481-12h.s1
+    span:
+    - body
+    - 3881
+    - 3882
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-482-15h.s1
+    span:
+    - body
+    - 3882
+    - 3952
+  label: 薺
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-482-18h.s1
+    span:
+    - body
+    - 3952
+    - 3953
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-483-3h.s1
+    span:
+    - body
+    - 3953
+    - 4087
+  label: 蕪青及蘆菔
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-483-8h.s1
+    span:
+    - body
+    - 4087
+    - 4088
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-483-14h.s1
+    span:
+    - body
+    - 4088
+    - 4194
+  label: 菘
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-483-18h.s1
+    span:
+    - body
+    - 4194
+    - 4195
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-484-6h.s1
+    span:
+    - body
+    - 4195
+    - 4262
+  label: 芥
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-484-9h.s1
+    span:
+    - body
+    - 4262
+    - 4263
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-484-13h.s1
+    span:
+    - body
+    - 4263
+    - 4336
+  label: 苜蓿
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-484-16h.s1
+    span:
+    - body
+    - 4336
+    - 4337
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-484-18h.s1
+    span:
+    - body
+    - 4337
+    - 4452
+  label: 荏子
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-485-3h.s1
+    span:
+    - body
+    - 4452
+    - 4453
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-485-10h.s1
+    span:
+    - body
+    - 4453
+    - 5533
+  label: 中品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-485-11h.s1
+    span:
+    - body
+    - 4455
+    - 4628
+  label: 蓼實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-486-1h.s1
+    span:
+    - body
+    - 4628
+    - 4629
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-486-15h.s1
+    span:
+    - body
+    - 4629
+    - 4726
+  label: 葱實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-487-1h.s1
+    span:
+    - body
+    - 4726
+    - 4727
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-487-16h.s1
+    span:
+    - body
+    - 4727
+    - 4902
+  label: 薤
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-488-4h.s1
+    span:
+    - body
+    - 4902
+    - 4903
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-488-19h.s1
+    span:
+    - body
+    - 4903
+    - 5124
+  label: 韮
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-489-6h.s1
+    span:
+    - body
+    - 5124
+    - 5125
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-489-15h.s1
+    span:
+    - body
+    - 5125
+    - 5228
+  label: 白蘘荷
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-489-19h.s1
+    span:
+    - body
+    - 5228
+    - 5229
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-490-4h.s1
+    span:
+    - body
+    - 5229
+    - 5293
+  label: 菾菜
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-490-7h.s1
+    span:
+    - body
+    - 5293
+    - 5294
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-490-14h.s1
+    span:
+    - body
+    - 5294
+    - 5360
+  label: 蘇
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-490-17h.s1
+    span:
+    - body
+    - 5360
+    - 5361
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-491-3h.s1
+    span:
+    - body
+    - 5361
+    - 5466
+  label: 水蘇
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-491-8h.s1
+    span:
+    - body
+    - 5466
+    - 5467
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-492-1h.s1
+    span:
+    - body
+    - 5467
+    - 5532
+  label: 香薷
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-492-4h.s1
+    span:
+    - body
+    - 5532
+    - 5533
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-492-8h.s1
+    span:
+    - body
+    - 5533
+    - 6524
+  label: 下品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-492-9h.s1
+    span:
+    - body
+    - 5535
+    - 5759
+  label: 瓜蒂
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-492-17h.s1
+    span:
+    - body
+    - 5759
+    - 5760
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-493-15h.s1
+    span:
+    - body
+    - 5760
+    - 5881
+  label: 苦瓠
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-494-2h.s1
+    span:
+    - body
+    - 5881
+    - 5882
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-494-7h.s1
+    span:
+    - body
+    - 5882
+    - 5993
+  label: 水斳
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-494-12h.s1
+    span:
+    - body
+    - 5993
+    - 5994
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-495-3h.s1
+    span:
+    - body
+    - 5994
+    - 6051
+  label: 蒪
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-495-6h.s1
+    span:
+    - body
+    - 6051
+    - 6052
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-495-11h.s1
+    span:
+    - body
+    - 6052
+    - 6145
+  label: 落葵
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-495-15h.s1
+    span:
+    - body
+    - 6145
+    - 6146
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-496-1h.s1
+    span:
+    - body
+    - 6146
+    - 6224
+  label: 蘩蔞
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-496-5h.s1
+    span:
+    - body
+    - 6224
+    - 6225
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-496-10h.s1
+    span:
+    - body
+    - 6225
+    - 6284
+  label: 蕺
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-496-13h.s1
+    span:
+    - body
+    - 6284
+    - 6285
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-496-15h.s1
+    span:
+    - body
+    - 6285
+    - 6420
+  label: 葫
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-497-1h.s1
+    span:
+    - body
+    - 6420
+    - 6421
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-497-11h.s1
+    span:
+    - body
+    - 6421
+    - 6523
+  label: 蒜
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-497-15h.s1
+    span:
+    - body
+    - 6523
+    - 6524
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-498-4h.s1
+    span:
+    - body
+    - 6524
+    - 9641
+  label: 米食部藥物
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-498-5h.s1
+    span:
+    - body
+    - 6529
+    - 7114
+  label: 上品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-498-6h.s1
+    span:
+    - body
+    - 6531
+    - 6778
+  label: 胡麻
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-498-14h.s1
+    span:
+    - body
+    - 6778
+    - 6779
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-499-11h.s1
+    span:
+    - body
+    - 6779
+    - 6916
+  label: 麻蕡
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-499-17h.s1
+    span:
+    - body
+    - 6916
+    - 6917
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-500-10h.s1
+    span:
+    - body
+    - 6917
+    - 7006
+  label: 麻子
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-500-14h.s1
+    span:
+    - body
+    - 7006
+    - 7007
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-501-11h.s1
+    span:
+    - body
+    - 7007
+    - 7113
+  label: 飴糖
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-501-15h.s1
+    span:
+    - body
+    - 7113
+    - 7114
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-502-2h.s1
+    span:
+    - body
+    - 7114
+    - 8455
+  label: 中品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-502-3h.s1
+    span:
+    - body
+    - 7116
+    - 7254
+  label: 大豆黄卷
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-502-9h.s1
+    span:
+    - body
+    - 7254
+    - 7255
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-503-4h.s1
+    span:
+    - body
+    - 7255
+    - 7375
+  label: 赤小豆
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-503-9h.s1
+    span:
+    - body
+    - 7375
+    - 7376
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-504-3h.s1
+    span:
+    - body
+    - 7376
+    - 7533
+  label: 豉
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-504-9h.s1
+    span:
+    - body
+    - 7533
+    - 7534
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-505-1h.s1
+    span:
+    - body
+    - 7534
+    - 7596
+  label: 大麦
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-505-4h.s1
+    span:
+    - body
+    - 7596
+    - 7597
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-505-11h.s1
+    span:
+    - body
+    - 7597
+    - 7682
+  label: 穬麦
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-505-15h.s1
+    span:
+    - body
+    - 7682
+    - 7683
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-506-2h.s1
+    span:
+    - body
+    - 7683
+    - 7785
+  label: 小麦
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-506-6h.s1
+    span:
+    - body
+    - 7785
+    - 7786
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-506-16h.s1
+    span:
+    - body
+    - 7786
+    - 7877
+  label: 青粱米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-507-3h.s1
+    span:
+    - body
+    - 7877
+    - 7878
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-507-10h.s1
+    span:
+    - body
+    - 7878
+    - 7923
+  label: 黄粱米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-507-12h.s1
+    span:
+    - body
+    - 7923
+    - 7924
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-507-16h.s1
+    span:
+    - body
+    - 7924
+    - 7978
+  label: 白粱米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-507-19h.s1
+    span:
+    - body
+    - 7978
+    - 7979
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-508-1h.s1
+    span:
+    - body
+    - 7979
+    - 8084
+  label: 粟米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-508-5h.s1
+    span:
+    - body
+    - 8084
+    - 8085
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-508-10h.s1
+    span:
+    - body
+    - 8085
+    - 8161
+  label: 丹黍米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-508-13h.s1
+    span:
+    - body
+    - 8161
+    - 8162
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-1h.s1
+    span:
+    - body
+    - 8162
+    - 8226
+  label: 糵米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-4h.s1
+    span:
+    - body
+    - 8226
+    - 8227
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-8h.s1
+    span:
+    - body
+    - 8227
+    - 8289
+  label: 秫米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-11h.s1
+    span:
+    - body
+    - 8289
+    - 8290
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-16h.s1
+    span:
+    - body
+    - 8290
+    - 8347
+  label: 陳廪米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-509-19h.s1
+    span:
+    - body
+    - 8347
+    - 8348
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-510-4h.s1
+    span:
+    - body
+    - 8348
+    - 8454
+  label: 酒
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-510-8h.s1
+    span:
+    - body
+    - 8454
+    - 8455
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-510-16h.s1
+    span:
+    - body
+    - 8455
+    - 9641
+  label: 下品
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-510-17h.s1
+    span:
+    - body
+    - 8457
+    - 8623
+  label: 腐婢
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-511-6h.s1
+    span:
+    - body
+    - 8623
+    - 8624
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-511-13h.s1
+    span:
+    - body
+    - 8624
+    - 8694
+  label: 藊豆
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-511-16h.s1
+    span:
+    - body
+    - 8694
+    - 8695
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-512-1h.s1
+    span:
+    - body
+    - 8695
+    - 8803
+  label: 黍米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-512-5h.s1
+    span:
+    - body
+    - 8803
+    - 8804
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-512-10h.s1
+    span:
+    - body
+    - 8804
+    - 8874
+  label: 粳米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-512-13h.s1
+    span:
+    - body
+    - 8874
+    - 8875
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-512-19h.s1
+    span:
+    - body
+    - 8875
+    - 8951
+  label: 稻米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-513-2h.s1
+    span:
+    - body
+    - 8951
+    - 8952
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-513-8h.s1
+    span:
+    - body
+    - 8952
+    - 9194
+  label: 稷米
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-513-16h.s1
+    span:
+    - body
+    - 9194
+    - 9195
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-514-7h.s1
+    span:
+    - body
+    - 9195
+    - 9276
+  label: 酢酒
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-514-10h.s1
+    span:
+    - body
+    - 9276
+    - 9277
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-514-18h.s1
+    span:
+    - body
+    - 9277
+    - 9348
+  label: 醬
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-515-2h.s1
+    span:
+    - body
+    - 9348
+    - 9349
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-515-6h.s1
+    span:
+    - body
+    - 9349
+    - 9590
+  label: 鹽
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-515-14h.s1
+    span:
+    - body
+    - 9590
+    - 9591
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-516-10h.s1
+    span:
+    - body
+    - 9591
+    - 9641
+  label: 舂杵頭細糠
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-516-13h.s1
+    span:
+    - body
+    - 9641
+    - 16442
+  label: 有名無實類藥物
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-516-14h.s1
+    span:
+    - body
+    - 9648
+    - 10745
+  label: 玉石類
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-516-15h.s1
+    span:
+    - body
+    - 9651
+    - 9745
+  label: 青玉
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-4h.s1
+    span:
+    - body
+    - 9745
+    - 9746
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-9h.s1
+    span:
+    - body
+    - 9746
+    - 9783
+  label: 白玉髓
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-11h.s1
+    span:
+    - body
+    - 9783
+    - 9784
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-13h.s1
+    span:
+    - body
+    - 9784
+    - 9823
+  label: 玉英
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-15h.s1
+    span:
+    - body
+    - 9823
+    - 9824
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-517-19h.s1
+    span:
+    - body
+    - 9824
+    - 9847
+  label: 璧玉
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-1h.s1
+    span:
+    - body
+    - 9847
+    - 9882
+  label: 合玉石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-3h.s1
+    span:
+    - body
+    - 9882
+    - 9883
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-5h.s1
+    span:
+    - body
+    - 9883
+    - 9923
+  label: 紫石華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-7h.s1
+    span:
+    - body
+    - 9923
+    - 9924
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-10h.s1
+    span:
+    - body
+    - 9924
+    - 9961
+  label: 白石華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-12h.s1
+    span:
+    - body
+    - 9961
+    - 9962
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-15h.s1
+    span:
+    - body
+    - 9962
+    - 10005
+  label: 黑石華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-17h.s1
+    span:
+    - body
+    - 10005
+    - 10006
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-518-19h.s1
+    span:
+    - body
+    - 10006
+    - 10040
+  label: 黄石華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-2h.s1
+    span:
+    - body
+    - 10040
+    - 10041
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-6h.s1
+    span:
+    - body
+    - 10041
+    - 10080
+  label: 厲石華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-8h.s1
+    span:
+    - body
+    - 10080
+    - 10081
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-10h.s1
+    span:
+    - body
+    - 10081
+    - 10141
+  label: 石肺
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-13h.s1
+    span:
+    - body
+    - 10141
+    - 10142
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-17h.s1
+    span:
+    - body
+    - 10142
+    - 10174
+  label: 石肝
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-519-19h.s1
+    span:
+    - body
+    - 10174
+    - 10243
+  label: 石脾
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-3h.s1
+    span:
+    - body
+    - 10243
+    - 10244
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-7h.s1
+    span:
+    - body
+    - 10244
+    - 10270
+  label: 石腎
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-8h.s1
+    span:
+    - body
+    - 10270
+    - 10307
+  label: 封石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-10h.s1
+    span:
+    - body
+    - 10307
+    - 10341
+  label: 陵石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-12h.s1
+    span:
+    - body
+    - 10341
+    - 10370
+  label: 碧石青
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-14h.s1
+    span:
+    - body
+    - 10370
+    - 10371
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-520-16h.s1
+    span:
+    - body
+    - 10371
+    - 10404
+  label: 遂石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-1h.s1
+    span:
+    - body
+    - 10404
+    - 10405
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-3h.s1
+    span:
+    - body
+    - 10405
+    - 10453
+  label: 白肌石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-5h.s1
+    span:
+    - body
+    - 10453
+    - 10454
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-8h.s1
+    span:
+    - body
+    - 10454
+    - 10484
+  label: 龍石膏
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-10h.s1
+    span:
+    - body
+    - 10484
+    - 10520
+  label: 五羽石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-12h.s1
+    span:
+    - body
+    - 10520
+    - 10521
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-16h.s1
+    span:
+    - body
+    - 10521
+    - 10560
+  label: 石流青
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-18h.s1
+    span:
+    - body
+    - 10560
+    - 10561
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-521-20h.s1
+    span:
+    - body
+    - 10561
+    - 10613
+  label: 石流赤
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-2h.s1
+    span:
+    - body
+    - 10613
+    - 10647
+  label: 石耆
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-4h.s1
+    span:
+    - body
+    - 10647
+    - 10700
+  label: 紫加石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-7h.s1
+    span:
+    - body
+    - 10700
+    - 10701
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-11h.s1
+    span:
+    - body
+    - 10701
+    - 10745
+  label: 終石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-14h.s1
+    span:
+    - body
+    - 10745
+    - 15970
+  label: 草木類
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-522-15h.s1
+    span:
+    - body
+    - 10748
+    - 10792
+  label: 玉伯
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-2h.s1
+    span:
+    - body
+    - 10792
+    - 10793
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-4h.s1
+    span:
+    - body
+    - 10793
+    - 10833
+  label: 文石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-6h.s1
+    span:
+    - body
+    - 10833
+    - 10876
+  label: 曼諸石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-8h.s1
+    span:
+    - body
+    - 10876
+    - 10877
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-10h.s1
+    span:
+    - body
+    - 10877
+    - 10921
+  label: 山慈石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-12h.s1
+    span:
+    - body
+    - 10921
+    - 10922
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-14h.s1
+    span:
+    - body
+    - 10922
+    - 10955
+  label: 石濡
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-16h.s1
+    span:
+    - body
+    - 10955
+    - 10999
+  label: 石芸
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-523-18h.s1
+    span:
+    - body
+    - 10999
+    - 11000
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-3h.s1
+    span:
+    - body
+    - 11000
+    - 11023
+  label: 石劇
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-4h.s1
+    span:
+    - body
+    - 11023
+    - 11024
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-7h.s1
+    span:
+    - body
+    - 11024
+    - 11099
+  label: 路石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-10h.s1
+    span:
+    - body
+    - 11099
+    - 11100
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-13h.s1
+    span:
+    - body
+    - 11100
+    - 11134
+  label: 曠石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-15h.s1
+    span:
+    - body
+    - 11134
+    - 11135
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-18h.s1
+    span:
+    - body
+    - 11135
+    - 11157
+  label: 敗石
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-524-19h.s1
+    span:
+    - body
+    - 11157
+    - 11194
+  label: 越砥
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-2h.s1
+    span:
+    - body
+    - 11194
+    - 11195
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-6h.s1
+    span:
+    - body
+    - 11195
+    - 11229
+  label: 金莖
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-8h.s1
+    span:
+    - body
+    - 11229
+    - 11230
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-11h.s1
+    span:
+    - body
+    - 11230
+    - 11265
+  label: 夏臺
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-13h.s1
+    span:
+    - body
+    - 11265
+    - 11308
+  label: 柒紫
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-15h.s1
+    span:
+    - body
+    - 11308
+    - 11309
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-525-18h.s1
+    span:
+    - body
+    - 11309
+    - 11357
+  label: 鬼目
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-1h.s1
+    span:
+    - body
+    - 11357
+    - 11358
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-4h.s1
+    span:
+    - body
+    - 11358
+    - 11407
+  label: 鬼蓋
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-7h.s1
+    span:
+    - body
+    - 11407
+    - 11408
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-9h.s1
+    span:
+    - body
+    - 11408
+    - 11433
+  label: 馬顛
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-10h.s1
+    span:
+    - body
+    - 11433
+    - 11476
+  label: 馬唐
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-12h.s1
+    span:
+    - body
+    - 11476
+    - 11477
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-15h.s1
+    span:
+    - body
+    - 11477
+    - 11497
+  label: 馬逢
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-16h.s1
+    span:
+    - body
+    - 11497
+    - 11537
+  label: 牛舌實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-526-18h.s1
+    span:
+    - body
+    - 11537
+    - 11538
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-2h.s1
+    span:
+    - body
+    - 11538
+    - 11578
+  label: 羊乳
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-4h.s1
+    span:
+    - body
+    - 11578
+    - 11579
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-6h.s1
+    span:
+    - body
+    - 11579
+    - 11607
+  label: 羊實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-8h.s1
+    span:
+    - body
+    - 11607
+    - 11608
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-10h.s1
+    span:
+    - body
+    - 11608
+    - 11636
+  label: 犀洛
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-12h.s1
+    span:
+    - body
+    - 11636
+    - 11637
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-14h.s1
+    span:
+    - body
+    - 11637
+    - 11669
+  label: 鹿良
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-16h.s1
+    span:
+    - body
+    - 11669
+    - 11670
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-527-18h.s1
+    span:
+    - body
+    - 11670
+    - 11703
+  label: 菟棗
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-1h.s1
+    span:
+    - body
+    - 11703
+    - 11742
+  label: 雀梅
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-3h.s1
+    span:
+    - body
+    - 11742
+    - 11743
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-6h.s1
+    span:
+    - body
+    - 11743
+    - 11794
+  label: 雀翹
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-8h.s1
+    span:
+    - body
+    - 11794
+    - 11795
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-10h.s1
+    span:
+    - body
+    - 11795
+    - 11846
+  label: 鷄湼
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-12h.s1
+    span:
+    - body
+    - 11846
+    - 11847
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-15h.s1
+    span:
+    - body
+    - 11847
+    - 11886
+  label: 相烏
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-528-17h.s1
+    span:
+    - body
+    - 11886
+    - 11923
+  label: 鼠耳
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-1h.s1
+    span:
+    - body
+    - 11923
+    - 11924
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-4h.s1
+    span:
+    - body
+    - 11924
+    - 11962
+  label: 蛇舌
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-6h.s1
+    span:
+    - body
+    - 11962
+    - 12000
+  label: 龍常草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-8h.s1
+    span:
+    - body
+    - 12000
+    - 12039
+  label: 離樓草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-10h.s1
+    span:
+    - body
+    - 12039
+    - 12040
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-12h.s1
+    span:
+    - body
+    - 12040
+    - 12088
+  label: 神護草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-14h.s1
+    span:
+    - body
+    - 12088
+    - 12089
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-16h.s1
+    span:
+    - body
+    - 12089
+    - 12118
+  label: 黄護草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-529-17h.s1
+    span:
+    - body
+    - 12118
+    - 12158
+  label: 吳唐草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-1h.s1
+    span:
+    - body
+    - 12158
+    - 12159
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-3h.s1
+    span:
+    - body
+    - 12159
+    - 12197
+  label: 天雄草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-5h.s1
+    span:
+    - body
+    - 12197
+    - 12240
+  label: 雀醫草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-7h.s1
+    span:
+    - body
+    - 12240
+    - 12297
+  label: 木甘草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-10h.s1
+    span:
+    - body
+    - 12297
+    - 12298
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-14h.s1
+    span:
+    - body
+    - 12298
+    - 12331
+  label: 益決草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-16h.s1
+    span:
+    - body
+    - 12331
+    - 12332
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-530-18h.s1
+    span:
+    - body
+    - 12332
+    - 12390
+  label: 九熟草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-3h.s1
+    span:
+    - body
+    - 12390
+    - 12391
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-5h.s1
+    span:
+    - body
+    - 12391
+    - 12428
+  label: 兑草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-7h.s1
+    span:
+    - body
+    - 12428
+    - 12429
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-9h.s1
+    span:
+    - body
+    - 12429
+    - 12491
+  label: 酸草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-12h.s1
+    span:
+    - body
+    - 12491
+    - 12492
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-531-19h.s1
+    span:
+    - body
+    - 12492
+    - 12532
+  label: 異草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-2h.s1
+    span:
+    - body
+    - 12532
+    - 12533
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-4h.s1
+    span:
+    - body
+    - 12533
+    - 12559
+  label: 草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-5h.s1
+    span:
+    - body
+    - 12559
+    - 12560
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-7h.s1
+    span:
+    - body
+    - 12560
+    - 12582
+  label: 草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-8h.s1
+    span:
+    - body
+    - 12582
+    - 12615
+  label: 莘草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-10h.s1
+    span:
+    - body
+    - 12615
+    - 12672
+  label: 勒草
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-12h.s1
+    span:
+    - body
+    - 12672
+    - 12673
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-14h.s1
+    span:
+    - body
+    - 12673
+    - 12728
+  label: 英草華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-532-17h.s1
+    span:
+    - body
+    - 12728
+    - 12729
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-2h.s1
+    span:
+    - body
+    - 12729
+    - 12754
+  label: 吳葵華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-3h.s1
+    span:
+    - body
+    - 12754
+    - 12755
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-5h.s1
+    span:
+    - body
+    - 12755
+    - 12785
+  label: 封華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-7h.s1
+    span:
+    - body
+    - 12785
+    - 12786
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-11h.s1
+    span:
+    - body
+    - 12786
+    - 12807
+  label: 北荇華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-12h.s1
+    span:
+    - body
+    - 12807
+    - 12808
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-14h.s1
+    span:
+    - body
+    - 12808
+    - 12834
+  label: 華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-15h.s1
+    span:
+    - body
+    - 12834
+    - 12869
+  label: 棑華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-533-17h.s1
+    span:
+    - body
+    - 12869
+    - 12870
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-1h.s1
+    span:
+    - body
+    - 12870
+    - 12920
+  label: 節華
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-3h.s1
+    span:
+    - body
+    - 12920
+    - 12921
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-5h.s1
+    span:
+    - body
+    - 12921
+    - 12959
+  label: 徐李
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-7h.s1
+    span:
+    - body
+    - 12959
+    - 12998
+  label: 新雉木
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-9h.s1
+    span:
+    - body
+    - 12998
+    - 12999
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-11h.s1
+    span:
+    - body
+    - 12999
+    - 13029
+  label: 合新木
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-13h.s1
+    span:
+    - body
+    - 13029
+    - 13030
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-15h.s1
+    span:
+    - body
+    - 13030
+    - 13066
+  label: 俳蒲木
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-17h.s1
+    span:
+    - body
+    - 13066
+    - 13067
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-534-19h.s1
+    span:
+    - body
+    - 13067
+    - 13105
+  label: 遂陽木
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-2h.s1
+    span:
+    - body
+    - 13105
+    - 13106
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-5h.s1
+    span:
+    - body
+    - 13106
+    - 13146
+  label: 學木核
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-7h.s1
+    span:
+    - body
+    - 13146
+    - 13186
+  label: 木核
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-9h.s1
+    span:
+    - body
+    - 13186
+    - 13187
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-12h.s1
+    span:
+    - body
+    - 13187
+    - 13213
+  label: 栒核
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-13h.s1
+    span:
+    - body
+    - 13213
+    - 13253
+  label: 荻皮
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-15h.s1
+    span:
+    - body
+    - 13253
+    - 13254
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-535-17h.s1
+    span:
+    - body
+    - 13254
+    - 13301
+  label: 桑莖實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-1h.s1
+    span:
+    - body
+    - 13301
+    - 13302
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-3h.s1
+    span:
+    - body
+    - 13302
+    - 13355
+  label: 滿陰實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-6h.s1
+    span:
+    - body
+    - 13355
+    - 13356
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-10h.s1
+    span:
+    - body
+    - 13356
+    - 13401
+  label: 可聚實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-12h.s1
+    span:
+    - body
+    - 13401
+    - 13428
+  label: 讓實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-13h.s1
+    span:
+    - body
+    - 13428
+    - 13475
+  label: 蕙實
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-15h.s1
+    span:
+    - body
+    - 13475
+    - 13476
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-536-18h.s1
+    span:
+    - body
+    - 13476
+    - 13516
+  label: 青雌
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-2h.s1
+    span:
+    - body
+    - 13516
+    - 13517
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-4h.s1
+    span:
+    - body
+    - 13517
+    - 13558
+  label: 白背
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-6h.s1
+    span:
+    - body
+    - 13558
+    - 13559
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-8h.s1
+    span:
+    - body
+    - 13559
+    - 13606
+  label: 白女腸
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-10h.s1
+    span:
+    - body
+    - 13606
+    - 13607
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-12h.s1
+    span:
+    - body
+    - 13607
+    - 13639
+  label: 白扇根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-14h.s1
+    span:
+    - body
+    - 13639
+    - 13640
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-16h.s1
+    span:
+    - body
+    - 13640
+    - 13679
+  label: 白給
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-537-18h.s1
+    span:
+    - body
+    - 13679
+    - 13680
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-1h.s1
+    span:
+    - body
+    - 13680
+    - 13738
+  label: 白并
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-4h.s1
+    span:
+    - body
+    - 13738
+    - 13739
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-8h.s1
+    span:
+    - body
+    - 13739
+    - 13780
+  label: 白辛
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-10h.s1
+    span:
+    - body
+    - 13780
+    - 13781
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-12h.s1
+    span:
+    - body
+    - 13781
+    - 13818
+  label: 白昌
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-14h.s1
+    span:
+    - body
+    - 13818
+    - 13873
+  label: 赤舉
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-538-16h.s1
+    span:
+    - body
+    - 13873
+    - 13912
+  label: 赤涅
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-1h.s1
+    span:
+    - body
+    - 13912
+    - 13941
+  label: 黄秫
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-3h.s1
+    span:
+    - body
+    - 13941
+    - 13942
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-5h.s1
+    span:
+    - body
+    - 13942
+    - 13982
+  label: 徐黄
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-7h.s1
+    span:
+    - body
+    - 13982
+    - 13983
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-9h.s1
+    span:
+    - body
+    - 13983
+    - 14008
+  label: 黄白支
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-10h.s1
+    span:
+    - body
+    - 14008
+    - 14009
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-12h.s1
+    span:
+    - body
+    - 14009
+    - 14038
+  label: 紫藍
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-14h.s1
+    span:
+    - body
+    - 14038
+    - 14039
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-16h.s1
+    span:
+    - body
+    - 14039
+    - 14081
+  label: 紫給
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-539-18h.s1
+    span:
+    - body
+    - 14081
+    - 14113
+  label: 天蓼
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-1h.s1
+    span:
+    - body
+    - 14113
+    - 14153
+  label: 地朕
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-3h.s1
+    span:
+    - body
+    - 14153
+    - 14213
+  label: 地芩
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-6h.s1
+    span:
+    - body
+    - 14213
+    - 14214
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-8h.s1
+    span:
+    - body
+    - 14214
+    - 14281
+  label: 地筋
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-11h.s1
+    span:
+    - body
+    - 14281
+    - 14315
+  label: 地耳
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-13h.s1
+    span:
+    - body
+    - 14315
+    - 14350
+  label: 土齒
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-540-15h.s1
+    span:
+    - body
+    - 14350
+    - 14376
+  label: 燕齒
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-1h.s1
+    span:
+    - body
+    - 14376
+    - 14404
+  label: 酸惡
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-2h.s1
+    span:
+    - body
+    - 14404
+    - 14435
+  label: 酸赭
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-4h.s1
+    span:
+    - body
+    - 14435
+    - 14475
+  label: 巴
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-6h.s1
+    span:
+    - body
+    - 14475
+    - 14503
+  label: 巴朱
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-8h.s1
+    span:
+    - body
+    - 14503
+    - 14504
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-11h.s1
+    span:
+    - body
+    - 14504
+    - 14543
+  label: 蜀格
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-13h.s1
+    span:
+    - body
+    - 14543
+    - 14544
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-15h.s1
+    span:
+    - body
+    - 14544
+    - 14564
+  label: 纍根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-541-16h.s1
+    span:
+    - body
+    - 14564
+    - 14607
+  label: 苗根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-1h.s1
+    span:
+    - body
+    - 14607
+    - 14661
+  label: 參果根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-3h.s1
+    span:
+    - body
+    - 14661
+    - 14694
+  label: 黄辨
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-5h.s1
+    span:
+    - body
+    - 14694
+    - 14695
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-8h.s1
+    span:
+    - body
+    - 14695
+    - 14729
+  label: 良達
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-10h.s1
+    span:
+    - body
+    - 14729
+    - 14770
+  label: 對廬
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-12h.s1
+    span:
+    - body
+    - 14770
+    - 14771
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-14h.s1
+    span:
+    - body
+    - 14771
+    - 14801
+  label: 糞藍
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-16h.s1
+    span:
+    - body
+    - 14801
+    - 14802
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-542-18h.s1
+    span:
+    - body
+    - 14802
+    - 14850
+  label: 委蛇
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-2h.s1
+    span:
+    - body
+    - 14850
+    - 14851
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-4h.s1
+    span:
+    - body
+    - 14851
+    - 14908
+  label: 麻伯
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-7h.s1
+    span:
+    - body
+    - 14908
+    - 14909
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-9h.s1
+    span:
+    - body
+    - 14909
+    - 14944
+  label: 王明
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-11h.s1
+    span:
+    - body
+    - 14944
+    - 14985
+  label: 類鼻
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-13h.s1
+    span:
+    - body
+    - 14985
+    - 14986
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-15h.s1
+    span:
+    - body
+    - 14986
+    - 15030
+  label: 師系
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-17h.s1
+    span:
+    - body
+    - 15030
+    - 15031
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-543-19h.s1
+    span:
+    - body
+    - 15031
+    - 15076
+  label: 逐折
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-3h.s1
+    span:
+    - body
+    - 15076
+    - 15077
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-6h.s1
+    span:
+    - body
+    - 15077
+    - 15116
+  label: 并苦
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-8h.s1
+    span:
+    - body
+    - 15116
+    - 15117
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-11h.s1
+    span:
+    - body
+    - 15117
+    - 15146
+  label: 領灰
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-13h.s1
+    span:
+    - body
+    - 15146
+    - 15147
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-15h.s1
+    span:
+    - body
+    - 15147
+    - 15180
+  label: 父陛根
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-17h.s1
+    span:
+    - body
+    - 15180
+    - 15206
+  label: 索干
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-544-18h.s1
+    span:
+    - body
+    - 15206
+    - 15207
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-1h.s1
+    span:
+    - body
+    - 15207
+    - 15232
+  label: 荆莖
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-2h.s1
+    span:
+    - body
+    - 15232
+    - 15256
+  label: 鬼音麗
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-3h.s1
+    span:
+    - body
+    - 15256
+    - 15257
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-6h.s1
+    span:
+    - body
+    - 15257
+    - 15280
+  label: 竹付
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-7h.s1
+    span:
+    - body
+    - 15280
+    - 15307
+  label: 秘惡
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-8h.s1
+    span:
+    - body
+    - 15307
+    - 15329
+  label: 唐夷
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-9h.s1
+    span:
+    - body
+    - 15329
+    - 15330
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-11h.s1
+    span:
+    - body
+    - 15330
+    - 15351
+  label: 知杖
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-12h.s1
+    span:
+    - body
+    - 15351
+    - 15373
+  label: 葵松
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-13h.s1
+    span:
+    - body
+    - 15373
+    - 15374
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-16h.s1
+    span:
+    - body
+    - 15374
+    - 15407
+  label: 河煎
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-545-18h.s1
+    span:
+    - body
+    - 15407
+    - 15408
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-1h.s1
+    span:
+    - body
+    - 15408
+    - 15432
+  label: 區余
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-2h.s1
+    span:
+    - body
+    - 15432
+    - 15433
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-4h.s1
+    span:
+    - body
+    - 15433
+    - 15488
+  label: 三葉
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-7h.s1
+    span:
+    - body
+    - 15488
+    - 15489
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-10h.s1
+    span:
+    - body
+    - 15489
+    - 15539
+  label: 五麻
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-12h.s1
+    span:
+    - body
+    - 15539
+    - 15540
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-14h.s1
+    span:
+    - body
+    - 15540
+    - 15569
+  label: 疥栢
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-546-16h.s1
+    span:
+    - body
+    - 15569
+    - 15570
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-1h.s1
+    span:
+    - body
+    - 15570
+    - 15601
+  label: 常更之生
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-3h.s1
+    span:
+    - body
+    - 15601
+    - 15602
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-6h.s1
+    span:
+    - body
+    - 15602
+    - 15643
+  label: 救煞人者
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-8h.s1
+    span:
+    - body
+    - 15643
+    - 15644
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-10h.s1
+    span:
+    - body
+    - 15644
+    - 15697
+  label: 丁公寄
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-12h.s1
+    span:
+    - body
+    - 15697
+    - 15738
+  label: 城裏赤柱
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-14h.s1
+    span:
+    - body
+    - 15738
+    - 15767
+  label: 城東腐木
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-547-16h.s1
+    span:
+    - body
+    - 15767
+    - 15768
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-1h.s1
+    span:
+    - body
+    - 15768
+    - 15804
+  label: 芥
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-3h.s1
+    span:
+    - body
+    - 15804
+    - 15826
+  label: 載
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-4h.s1
+    span:
+    - body
+    - 15826
+    - 15847
+  label: 慶
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-5h.s1
+    span:
+    - body
+    - 15847
+    - 15848
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-7h.s1
+    span:
+    - body
+    - 15848
+    - 15880
+  label: 腂
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-9h.s1
+    span:
+    - body
+    - 15880
+    - 15881
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-11h.s1
+    span:
+    - body
+    - 15881
+    - 15920
+  label: 鳧葵
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-13h.s1
+    span:
+    - body
+    - 15920
+    - 15921
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-548-16h.s1
+    span:
+    - body
+    - 15921
+    - 15957
+  label: 白菀
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-1h.s1
+    span:
+    - body
+    - 15957
+    - 15969
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-5h.s1
+    span:
+    - body
+    - 15969
+    - 15970
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-11h.s1
+    span:
+    - body
+    - 15970
+    - 16442
+  label: 蟲類
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-12h.s1
+    span:
+    - body
+    - 15972
+    - 16000
+  label: 雄黄蟲
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-13h.s1
+    span:
+    - body
+    - 16000
+    - 16001
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-15h.s1
+    span:
+    - body
+    - 16001
+    - 16037
+  label: 天社蟲
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-17h.s1
+    span:
+    - body
+    - 16037
+    - 16038
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-549-19h.s1
+    span:
+    - body
+    - 16038
+    - 16068
+  label: 桑蠹蟲
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-1h.s1
+    span:
+    - body
+    - 16068
+    - 16094
+  label: 石蠹蟲
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-2h.s1
+    span:
+    - body
+    - 16094
+    - 16131
+  label: 行夜
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-4h.s1
+    span:
+    - body
+    - 16131
+    - 16132
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-8h.s1
+    span:
+    - body
+    - 16132
+    - 16159
+  label: 蝸籬
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-9h.s1
+    span:
+    - body
+    - 16159
+    - 16182
+  label: 麋魚
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-10h.s1
+    span:
+    - body
+    - 16182
+    - 16183
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-12h.s1
+    span:
+    - body
+    - 16183
+    - 16225
+  label: 丹
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-14h.s1
+    span:
+    - body
+    - 16225
+    - 16226
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-550-18h.s1
+    span:
+    - body
+    - 16226
+    - 16265
+  label: 扁前
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-1h.s1
+    span:
+    - body
+    - 16265
+    - 16266
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-3h.s1
+    span:
+    - body
+    - 16266
+    - 16293
+  label: 蚖類
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-4h.s1
+    span:
+    - body
+    - 16293
+    - 16313
+  label: 蜚厲
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-5h.s1
+    span:
+    - body
+    - 16313
+    - 16334
+  label: 梗鷄
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-6h.s1
+    span:
+    - body
+    - 16334
+    - 16335
+  label: 注
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-8h.s1
+    span:
+    - body
+    - 16335
+    - 16356
+  label: 益符
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-9h.s1
+    span:
+    - body
+    - 16356
+    - 16385
+  label: 地防
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ec003_Shang_011-551-10h.s1
+    span:
+    - body
+    - 16385
+    - 16442
+  label: 黄蟲
+  type: section
+  level: 4
+hash: sha256:1be7e7fe5fed384c2a16ba95c416f2489796c2265ce50f9c3c1c6d93b09b6d12

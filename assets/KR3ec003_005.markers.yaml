@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3ec003/bkk/v1/markers/5
 seq: 5
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR3ec003_Shang_005-bkkpb1}
   - {type: line-break, offset: 0, content: '', id: _1-1}
   - {type: indent, offset: 3, content: 　, id: KR3ec003_Shang_005-bkkind1}
@@ -11151,6 +11151,5 @@ markers:
   - {type: line-break, offset: 10816, content: '', id: _126-10}
   - {type: page-break, offset: 10816, content: '', id: KR3ec003_Shang_005-bkkpb125}
   - {type: line-break, offset: 10816, content: '', id: _127-1}
-  body: []
   back: []
-hash: sha256:40615ddfda1717a4624fa1a60aceefa9a0066e9cb785dbf28be87923457cec32
+hash: sha256:c62894b1ac3026ad1c572516111724df06e0ef3eb268faf1e0e1037e5ef52e85

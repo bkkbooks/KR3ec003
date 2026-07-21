@@ -20,7 +20,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 5, filename: KR3ec003_005.yaml, hash: 'sha256:960fbe3b59bc32bb6a000ddc9fe6d9d880eadbd00ff61ed96fdc1cff66ed262f'}
+  - {seq: 5, filename: KR3ec003_005.yaml, hash: 'sha256:32b84c7f8745633548b506ce5c89ce7687e59117d4369e1022c0ca40cd4ee243'}
   - {seq: 6, filename: KR3ec003_006.yaml, hash: 'sha256:3ac96b9e3cbd3f7180cf61c08970110f465bb9f7cc1b90fc327a5c8dddccdf36'}
   - {seq: 7, filename: KR3ec003_007.yaml, hash: 'sha256:2e4edd715022273f5b226a54bccd45a42d6bf397d216c56beb2827b03dad8ba0'}
   - {seq: 8, filename: KR3ec003_008.yaml, hash: 'sha256:a85341c15fc3d093cde3dfb9548c3c59083f4ded521fe84909cc88f48fe487f9'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 10, filename: KR3ec003_010.yaml, hash: 'sha256:3055478666adfe8c4f44d533c71ceda7cfec4af81b7759681cb6b1bf162d0866'}
   - {seq: 11, filename: KR3ec003_011.yaml, hash: 'sha256:aa5affdfa6744a075db707171e5c9af4f3b5c58c190076ef72fb4bf71ccdd83d'}
   markers:
-  - {seq: 5, role: markers, filename: assets/KR3ec003_005.markers.yaml, hash: 'sha256:40615ddfda1717a4624fa1a60aceefa9a0066e9cb785dbf28be87923457cec32'}
+  - {seq: 5, role: markers, filename: assets/KR3ec003_005.markers.yaml, hash: 'sha256:c62894b1ac3026ad1c572516111724df06e0ef3eb268faf1e0e1037e5ef52e85'}
   - {seq: 6, role: markers, filename: assets/KR3ec003_006.markers.yaml, hash: 'sha256:b16e6a7abc155a2fc6e2b21974392317d07ddb395a2a7ef7c1a8b34158417404'}
   - {seq: 7, role: markers, filename: assets/KR3ec003_007.markers.yaml, hash: 'sha256:f1bcd0c138a4a60c5a97ca4a360566bcc3292ac047788258b3dc752ac8ded787'}
   - {seq: 8, role: markers, filename: assets/KR3ec003_008.markers.yaml, hash: 'sha256:664c4396216916b3225523e66521b247709f53834231350e850820c14091c16a'}
@@ -40,7 +40,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-1-1h.s1
     span:
-    - front
+    - body
     - 0
     - 10816
   label: 卷第一序録
@@ -50,7 +50,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-7h.s1
     span:
-    - front
+    - body
     - 8227
     - 8431
   label: 玉石上品
@@ -60,7 +60,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-8h.s1
     span:
-    - front
+    - body
     - 8231
     - 8236
   label: 玉屑
@@ -70,7 +70,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-9h.s1
     span:
-    - front
+    - body
     - 8236
     - 8242
   label: 玉泉
@@ -80,7 +80,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-10h.s1
     span:
-    - front
+    - body
     - 8242
     - 8250
   label: 丹沙
@@ -90,7 +90,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-11h.s1
     span:
-    - front
+    - body
     - 8250
     - 8255
   label: 水銀
@@ -100,7 +100,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-12h.s1
     span:
-    - front
+    - body
     - 8255
     - 8261
   label: 曾青
@@ -110,7 +110,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-13h.s1
     span:
-    - front
+    - body
     - 8261
     - 8279
   label: 石膽
@@ -120,7 +120,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-96-14h.s1
     span:
-    - front
+    - body
     - 8279
     - 8431
   label: 雲母
@@ -130,7 +130,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-97-12h.s1
     span:
-    - front
+    - body
     - 8430
     - 8431
   label: 注
@@ -140,7 +140,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-98-17h.s1
     span:
-    - front
+    - body
     - 8431
     - 8555
   label: 玉石中品
@@ -150,7 +150,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-98-18h.s1
     span:
-    - front
+    - body
     - 8435
     - 8455
   label: 鐘乳
@@ -160,7 +160,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-99-1h.s1
     span:
-    - front
+    - body
     - 8455
     - 8555
   label: 殷孽
@@ -170,7 +170,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-99-9h.s1
     span:
-    - front
+    - body
     - 8554
     - 8555
   label: 注
@@ -180,7 +180,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-100-7h.s1
     span:
-    - front
+    - body
     - 8555
     - 8620
   label: 下品
@@ -190,7 +190,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-101-3h.s1
     span:
-    - front
+    - body
     - 8620
     - 9135
   label: 草木上品
@@ -200,7 +200,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-101-6h.s1
     span:
-    - front
+    - body
     - 8666
     - 9135
   label: 栢子
@@ -210,7 +210,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-101-12h.s1
     span:
-    - front
+    - body
     - 8752
     - 8906
   label: 注
@@ -220,7 +220,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-103-10h.s1
     span:
-    - front
+    - body
     - 8906
     - 9018
   label: 注
@@ -230,7 +230,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-105-1h.s1
     span:
-    - front
+    - body
     - 9018
     - 9134
   label: 注
@@ -240,7 +240,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-106-7h.s1
     span:
-    - front
+    - body
     - 9134
     - 9135
   label: 注
@@ -250,7 +250,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-107-1h.s1
     span:
-    - front
+    - body
     - 9135
     - 9681
   label: 草木中品
@@ -260,7 +260,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-112-16h.s1
     span:
-    - front
+    - body
     - 9681
     - 10215
   label: 草木下品
@@ -270,7 +270,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-119-5h.s1
     span:
-    - front
+    - body
     - 10215
     - 10313
   label: 蟲獸上品
@@ -280,7 +280,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-120-18h.s1
     span:
-    - front
+    - body
     - 10313
     - 10484
   label: 蟲獸中品
@@ -290,7 +290,7 @@ table_of_contents:
     seq: 5
     marker_id: KR3ec003_Shang_005-123-1h.s1
     span:
-    - front
+    - body
     - 10484
     - 10816
   label: 蟲獸下品
@@ -11746,7 +11746,7 @@ table_of_contents:
   label: 黄蟲
   type: section
   level: 4
-hash: sha256:06c4091f2a8cfdb3c4789443da020409e1b562afda5dfef75b5aabe9e05b86d4
+hash: sha256:0bc03109f9da01caf9e35ccfe874f01f927f947c35fb6868470b7d0d25bc936d
 editions:
 - short: Shang
 mappings:
